@@ -16,7 +16,8 @@ call pathogen#helptags()
 """"""""""""""""""""""""""""""""""""""""""""""""""
 set nocompatible                                  " désactivation de la compatibilité avec vi
 set background=dark                               " fond sombre
-colorscheme desert                                " couleur
+"colorscheme desert                                " couleur
+colorscheme blackboard
 syntax enable                                     " activation de la coloration syntaxique
 set number                                        " numérotation des lignes
 set autoindent                                    " indentation automatique avancée
