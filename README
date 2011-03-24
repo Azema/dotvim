@@ -13,3 +13,7 @@ Switch to the '~/.vim' directory and fetch submodules:
     git submodule init
     git submodule update
 
+Elements externes:
+    
+    aptitude install ctags
+
