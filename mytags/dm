@@ -1,0 +1,1062 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BREAKS	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("BREAKS", 2); # a <br\/> at each EOL$/;"	d
+Dm_Acl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^class Dm_Acl extends Zend_Acl {$/;"	c
+Dm_Application_Resource_Acl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Acl.php	/^class Dm_Application_Resource_Acl extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_App	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/App.php	/^class Dm_Application_Resource_App extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_Auth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^class Dm_Application_Resource_Auth extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_Filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Filter.php	/^class Dm_Application_Resource_Filter extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_Layout	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Layout.php	/^class Dm_Application_Resource_Layout extends Zend_Application_Resource_Layout {$/;"	c
+Dm_Application_Resource_Locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^class Dm_Application_Resource_Locale extends Zend_Application_Resource_Locale$/;"	c
+Dm_Application_Resource_Log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Log.php	/^class Dm_Application_Resource_Log extends Zend_Application_Resource_Log$/;"	c
+Dm_Application_Resource_Marquee	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^class Dm_Application_Resource_Marquee extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_Media	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Media.php	/^class Dm_Application_Resource_Media extends Zend_Application_Resource_ResourceAbstract$/;"	c
+Dm_Application_Resource_Pagination	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Pagination.php	/^class Dm_Application_Resource_Pagination extends Zend_Application_Resource_ResourceAbstract {$/;"	c
+Dm_Application_Resource_SubstitutionHandler	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^class Dm_Application_Resource_SubstitutionHandler$/;"	c
+Dm_Application_Resource_Translate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^class Dm_Application_Resource_Translate extends Zend_Application_Resource_Translate$/;"	c
+Dm_Application_Resource_Viewhelper	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^class Dm_Application_Resource_Viewhelper$/;"	c
+Dm_Controller_Action_Helper_Config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Config.php	/^class Dm_Controller_Action_Helper_Config$/;"	c
+Dm_Controller_Action_Helper_ErrorMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^class Dm_Controller_Action_Helper_ErrorMessages$/;"	c
+Dm_Controller_Action_Helper_ExcelContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^class Dm_Controller_Action_Helper_ExcelContext$/;"	c
+Dm_Controller_Action_Helper_ExcelParser	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^class Dm_Controller_Action_Helper_ExcelParser extends Zend_Controller_Action_Helper_Abstract$/;"	c
+Dm_Controller_Action_Helper_Log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^class Dm_Controller_Action_Helper_Log extends Zend_Controller_Action_Helper_Abstract$/;"	c
+Dm_Controller_Action_Helper_Tail	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^class Dm_Controller_Action_Helper_Tail$/;"	c
+Dm_Controller_Action_Helper_WkmlContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/WkmlContext.php	/^    class Dm_Controller_Action_Helper_WkmlContext extends Zend_Controller_Action_Helper_ContextSwitch$/;"	c
+Dm_Controller_Plugin_Acl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^class Dm_Controller_Plugin_Acl extends Zend_Controller_Plugin_Abstract$/;"	c
+Dm_Controller_Plugin_Auth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^class Dm_Controller_Plugin_Auth extends Zend_Controller_Plugin_Abstract$/;"	c
+Dm_Controller_Plugin_CleanQuery	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^class Dm_Controller_Plugin_CleanQuery extends Zend_Controller_Plugin_Abstract$/;"	c
+Dm_Controller_Plugin_FlashMessenger	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/FlashMessenger.php	/^class Dm_Controller_Plugin_FlashMessenger extends Zend_Controller_Plugin_Abstract$/;"	c
+Dm_Controller_Plugin_Module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Module.php	/^class Dm_Controller_Plugin_Module extends Zend_Controller_Plugin_Abstract$/;"	c
+Dm_Filter_Accent	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Accent.php	/^class Dm_Filter_Accent implements Zend_Filter_Interface {$/;"	c
+Dm_Filter_AlphaPlus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^class Dm_Filter_AlphaPlus extends Zend_Filter_Alpha {$/;"	c
+Dm_Filter_Date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Date.php	/^class Dm_Filter_Date implements Zend_Filter_Interface$/;"	c
+Dm_Filter_DisplayablePhoneNumber	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^class Dm_Filter_DisplayablePhoneNumber extends Zend_Filter_Alpha$/;"	c
+Dm_Filter_PhoneNumber	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^class Dm_Filter_PhoneNumber extends Zend_Filter_Digits$/;"	c
+Dm_Form_Decorator_Counter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^class Dm_Form_Decorator_Counter extends Zend_Form_Decorator_Abstract {$/;"	c
+Dm_Form_Decorator_DefaultMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^class Dm_Form_Decorator_DefaultMessage extends Zend_Form_Decorator_Abstract {$/;"	c
+Dm_Form_Decorator_ImgDescription	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^class Dm_Form_Decorator_ImgDescription extends Zend_Form_Decorator_Description {$/;"	c
+Dm_Form_Decorator_ImgStep	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^class Dm_Form_Decorator_ImgStep extends Zend_Form_Decorator_Abstract {$/;"	c
+Dm_Form_Decorator_LabelPlus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^class Dm_Form_Decorator_LabelPlus extends Zend_Form_Decorator_Label$/;"	c
+Dm_Form_Decorator_Mp3player	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^class Dm_Form_Decorator_Mp3player extends Zend_Form_Decorator_Abstract {$/;"	c
+Dm_Form_Decorator_RafterDescription	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^class Dm_Form_Decorator_RafterDescription extends Zend_Form_Decorator_Description$/;"	c
+Dm_Form_Decorator_RoundedCorners	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^class Dm_Form_Decorator_RoundedCorners extends Zend_Form_Decorator_Abstract$/;"	c
+Dm_Form_Decorator_ShortErrors	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^class Dm_Form_Decorator_ShortErrors extends Zend_Form_Decorator_Errors {$/;"	c
+Dm_Form_Decorator_ShortFormErrors	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^class Dm_Form_Decorator_ShortFormErrors extends Zend_Form_Decorator_FormErrors {$/;"	c
+Dm_Form_Decorator_Table	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^class Dm_Form_Decorator_Table extends Zend_Form_Decorator_Abstract {$/;"	c
+Dm_Log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^class Dm_Log extends Zend_Log$/;"	c
+Dm_Log_Filter_Module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^class Dm_Log_Filter_Module extends Zend_Log_Filter_Abstract$/;"	c
+Dm_Media_Adapter_Abstract	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^abstract class Dm_Media_Adapter_Abstract implements Dm_Media_Adapter_Interface$/;"	c
+Dm_Media_Adapter_Email_Abstract	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^abstract class Dm_Media_Adapter_Email_Abstract extends Dm_Media_Adapter_Abstract$/;"	c
+Dm_Media_Adapter_Email_Default	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^class Dm_Media_Adapter_Email_Default extends Dm_Media_Adapter_Email_Abstract$/;"	c
+Dm_Media_Adapter_Email_EmailVision	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^class Dm_Media_Adapter_Email_EmailVision extends Dm_Media_Adapter_Email_Abstract$/;"	c
+Dm_Media_Adapter_Factory	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^class Dm_Media_Adapter_Factory$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^ * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média Email$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^ * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média Email$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^interface Dm_Media_Adapter_Interface$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^interface Dm_Media_Adapter_Interface$/;"	i
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^     * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média Web$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^ * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média SMS$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^ * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média vocal$/;"	c
+Dm_Media_Adapter_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^ * Classe implémentant l'interface Dm_Media_Adapter_Interface pour le média Web$/;"	c
+Dm_Media_Adapter_Mobile	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^    class Dm_Media_Adapter_Mobile extends Dm_Media_Adapter_Web$/;"	c
+Dm_Media_Adapter_SMS	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^class Dm_Media_Adapter_SMS extends Dm_Media_Adapter_Abstract$/;"	c
+Dm_Media_Adapter_Voice	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^class Dm_Media_Adapter_Voice extends Dm_Media_Adapter_Abstract$/;"	c
+Dm_Media_Adapter_Web	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^class Dm_Media_Adapter_Web extends Dm_Media_Adapter_Abstract$/;"	c
+Dm_Model_BillingType_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/BillingType/Interface.php	/^interface Dm_Model_BillingType_Interface$/;"	c
+Dm_Model_BillingType_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/BillingType/Interface.php	/^interface Dm_Model_BillingType_Interface$/;"	i
+Dm_Model_Contact_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Contact/Interface.php	/^interface Dm_Model_Contact_Interface$/;"	c
+Dm_Model_Contact_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Contact/Interface.php	/^interface Dm_Model_Contact_Interface$/;"	i
+Dm_Model_Credential_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^interface Dm_Model_Credential_Interface$/;"	c
+Dm_Model_Credential_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^interface Dm_Model_Credential_Interface$/;"	i
+Dm_Model_Filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^class Dm_Model_Filter$/;"	c
+Dm_Model_Filter_Abstract	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^abstract class Dm_Model_Filter_Abstract$/;"	c
+Dm_Model_Filter_Date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^class Dm_Model_Filter_Date extends Dm_Model_Filter_Abstract$/;"	c
+Dm_Model_Filter_Select	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^class Dm_Model_Filter_Select extends Dm_Model_Filter_Abstract$/;"	c
+Dm_Model_Filter_Select_Date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^class Dm_Model_Filter_Select_Date extends Dm_Model_Filter_Select$/;"	c
+Dm_Model_Filter_Text	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^class Dm_Model_Filter_Text extends Dm_Model_Filter_Abstract$/;"	c
+Dm_Model_Media_Credential	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Credential.php	/^class Dm_Model_Media_Credential$/;"	c
+Dm_Model_Media_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Interface.php	/^interface Dm_Model_Media_Interface$/;"	c
+Dm_Model_Media_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Interface.php	/^interface Dm_Model_Media_Interface$/;"	i
+Dm_Model_Message_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Message/Interface.php	/^interface Dm_Model_Message_Interface$/;"	c
+Dm_Model_Message_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Message/Interface.php	/^interface Dm_Model_Message_Interface$/;"	i
+Dm_Model_Survey_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^interface Dm_Model_Survey_Interface extends Dm_Model_Table_Row_Interface$/;"	c
+Dm_Model_Survey_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^interface Dm_Model_Survey_Interface extends Dm_Model_Table_Row_Interface$/;"	i
+Dm_Model_Table_Row_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Table/Row/Interface.php	/^interface Dm_Model_Table_Row_Interface {$/;"	c
+Dm_Model_Table_Row_Interface	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Table/Row/Interface.php	/^interface Dm_Model_Table_Row_Interface {$/;"	i
+Dm_Parser_Csv	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^class Dm_Parser_Csv$/;"	c
+Dm_Parser_CsvNissan	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/CsvNissan.php	/^class Dm_Parser_CsvNissan extends Dm_Parser_Csv$/;"	c
+Dm_Parser_Eqc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^class Dm_Parser_Eqc$/;"	c
+Dm_Parser_EqcCitroen	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/EqcCitroen.php	/^class Dm_Parser_EqcCitroen extends Dm_Parser_Eqc$/;"	c
+Dm_Parser_Excel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^class Dm_Parser_Excel$/;"	c
+Dm_Parser_SatisExcel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/SatisExcel.php	/^class Dm_Parser_SatisExcel extends Dm_Parser_Excel$/;"	c
+Dm_Validate_AlphaPlus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/AlphaPlus.php	/^class Dm_Validate_AlphaPlus extends Zend_Validate_Alpha {$/;"	c
+Dm_Validate_EarlierDate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^class Dm_Validate_EarlierDate extends Zend_Validate_Abstract$/;"	c
+Dm_Validate_EmailAdressList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^class Dm_Validate_EmailAdressList extends Zend_Validate_EmailAddress$/;"	c
+Dm_Validate_FutureDate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^class Dm_Validate_FutureDate extends Zend_Validate_Abstract$/;"	c
+Dm_Validate_MobilePhoneNumber	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^class Dm_Validate_MobilePhoneNumber extends Zend_Validate_Abstract$/;"	c
+Dm_Validate_PhoneNumber	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/PhoneNumber.php	/^class Dm_Validate_PhoneNumber extends Zend_Validate_Regex$/;"	c
+Dm_View_Helper_Anchor	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^class Dm_View_Helper_Anchor extends Zend_View_Helper_Navigation_HelperAbstract$/;"	c
+Dm_View_Helper_FormatDate	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^class Dm_View_Helper_FormatDate extends Zend_View_Helper_Abstract$/;"	c
+Dm_View_Helper_Page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^class Dm_View_Helper_Page extends Zend_View_Helper_Navigation_HelperAbstract$/;"	c
+HIGHLIGHT_ASTERISK	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("HIGHLIGHT_ASTERISK", 300); # highlight with *grep-word*$/;"	d
+HIGHLIGHT_BOLD	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("HIGHLIGHT_BOLD", 200); # highlight with <b>grep-word<\/b>$/;"	d
+HIGHLIGHT_NOT	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("HIGHLIGHT_NOT", 0); # do not highlight grep-word$/;"	d
+HIGHLIGHT_SPAN	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("HIGHLIGHT_SPAN", 100); # highlight with <span class="highlight">grep-word<\/span>$/;"	d
+OL_LIST	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("OL_LIST", 16); # split in an ordered list$/;"	d
+PARAGRAPH	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("PARAGRAPH", 4); # split with paragraphs$/;"	d
+PLAIN	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("PLAIN", 1); # plain output (with \\n at EOL)$/;"	d
+Trace	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    public static function Trace($message, $priority = "debug")$/;"	f
+UL_LIST	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("UL_LIST", 8); # split in an unordered list$/;"	d
+XML	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^define("XML", 32); # ouput XML with <list><line>line<\/line><\/list>$/;"	d
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^	public function __construct($file)	{$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^    function __construct($substitutionRules)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function __construct()$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/WkmlContext.php	/^        public function __construct()$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^    public function __construct($permanent=true)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^    public function __construct($module)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function  __construct($config)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function __construct()$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function __construct($name = null)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^    public function __construct($fieldHour = null, $fieldMin = null, $form = null)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    public function __construct($hour = 0, $min = 0)$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^    function __construct()$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/PhoneNumber.php	/^    public function __construct()$/;"	f
+__construct	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^    public function  __construct()$/;"	f
+__toString	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function __toString() {$/;"	f
+__toString	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Table/Row/Interface.php	/^    public function __toString();$/;"	f
+_action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $this->_action = $router->assemble($datas);$/;"	v
+_action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected $_action;$/;"	v
+_adapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^    protected static $_adapter;$/;"	v
+_adapters	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^    protected static $_adapters = array();$/;"	v
+_addSubmit	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected function _addSubmit()$/;"	f
+_anchor	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    protected $_anchor = '<a class="%s" title="%s" href="%s">%s<\/a>';$/;"	v
+_apiCampaign	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $this->_apiCampaign = new SoapClient($this->_getOption('wsdlCampaign'));$/;"	v
+_apiCampaign	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    protected $_apiCampaign;$/;"	v
+_apiMember	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $this->_apiMember = new SoapClient($this->_getOption('wsdlMember'));$/;"	v
+_apiMember	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    protected $_apiMember;$/;"	v
+_buttonLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $this->_buttonLabel = $label;$/;"	v
+_buttonLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected $_buttonLabel = "Ok";$/;"	v
+_cache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^            $this->_cache = $this->_options['cache'];$/;"	v
+_cache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^    protected $_cache = false;$/;"	v
+_cache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $_cache = self::_getCache();$/;"	v
+_class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^	protected $_class = '';$/;"	v
+_classes	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    protected $_classes = array('Dm_Log', 'Zend_Log');$/;"	v
+_cleans	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^    protected $_cleans = array('controller', 'action', 'module');$/;"	v
+_column	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $this->_column = array_pop($primary);$/;"	v
+_column	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_column;$/;"	v
+_column	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $this->_column = $column;$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^            $this->_columns = $columns;$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^            $this->_columns = array($columns);$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    protected $_columns = array();$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^            $this->_columns = $columns;$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^            $this->_columns = array($columns);$/;"	v
+_columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^    protected $_columns = array();$/;"	v
+_config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^    protected static $_config = array();$/;"	v
+_contactList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected $_contactList;$/;"	v
+_context	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_context = $context;$/;"	v
+_context	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_context;$/;"	v
+_contextKey	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    protected $_contextKey = 'excel';$/;"	v
+_contextKey	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/WkmlContext.php	/^        protected $_contextKey = 'wkml';$/;"	v
+_count	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^	static protected $_count = 0;$/;"	v
+_createFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected function _createFilter()$/;"	f
+_createFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    protected function _createFilter()$/;"	f
+_createFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected function _createFilter()$/;"	f
+_createFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    protected function _createFilter()$/;"	f
+_createFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^    protected function _createFilter()$/;"	f
+_datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_datas = $datas;$/;"	v
+_datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_datas = null;$/;"	v
+_datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected $_datas;$/;"	v
+_date	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^        $this->_date = new Zend_Date();$/;"	v
+_date	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^    protected $_date;$/;"	v
+_decorators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $this->_decorators = array_merge($this->_decorators, array (array('Label', array('placement' => 'prepend'))));$/;"	v
+_decorators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_decorators = array('ViewHelper');$/;"	v
+_decorators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    protected $_decorators = array('UiWidgetElement');$/;"	v
+_decorators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            $this->_decorators = array ();$/;"	v
+_decorators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^            $this->_decorators = array ();$/;"	v
+_defaultLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_defaultLabel = $label;$/;"	v
+_defaultLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected $_defaultLabel = 'Select...';$/;"	v
+_defaultValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_defaultValue = $value;$/;"	v
+_defaultValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected $_defaultValue;$/;"	v
+_element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_element;$/;"	v
+_element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^        $this->_element = new ZendX_JQuery_Form_Element_DatePicker($this->_name,$/;"	v
+_element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_element = new Zend_Form_Element_Select($this->_name);$/;"	v
+_element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $this->_element = new Zend_Form_Element_Select($this->_name);$/;"	v
+_element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^        $this->_element = new Zend_Form_Element_Text($this->_name);$/;"	v
+_encodePasswordCondition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^    protected function _encodePasswordCondition(){$/;"	f
+_exceptions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^    protected $_exceptions = array('sms' => array('index' => array('ping')), 'voice' => array('index' => array('wsdl', 'vxml')), 'index' => array('index' => array()));$/;"	v
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $this->_filter = new Zend_Filter_StripTags();$/;"	v
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    protected $_filter;$/;"	v
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected function _filter (Zend_Db_Select $select, $value)$/;"	f
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    protected function _filter (Zend_Db_Select $select, $value)$/;"	f
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    protected function _filter(Zend_Db_Select $select, $value)$/;"	f
+_filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^    protected function _filter (Zend_Db_Select $select, $value)$/;"	f
+_filters	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected $_filters = array();$/;"	v
+_form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^            $this->_form = new Zend_Form(new Zend_Config_Ini(APPLICATION_PATH . '\/config\/filters.ini', 'filter.default'));$/;"	v
+_form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected $_form;$/;"	v
+_form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^        $this->_form = $form;$/;"	v
+_generateContactList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _generateContactList ($contacts)$/;"	f
+_getCache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^    protected static function _getCache()$/;"	f
+_getColon	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^    protected function _getColon()$/;"	f
+_getHandlerSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected function _getHandlerSelect()$/;"	f
+_getLog	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    protected function _getLog()$/;"	f
+_getOption	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _getOption($name)$/;"	f
+_getOptions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _getOptions()$/;"	f
+_getSoapClient	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _getSoapClient ()$/;"	f
+_handler	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_handler = $handler;$/;"	v
+_handler	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_handler;$/;"	v
+_handler	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_handler = null;$/;"	v
+_hourField	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^        $this->_hourField = $fieldHour;$/;"	v
+_hourValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^        $this->_hourValue = $hour;$/;"	v
+_hourValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    protected $_hourValue;$/;"	v
+_id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$this->_id = (int) $id;$/;"	v
+_id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$this->_id = (int) $id;$/;"	v
+_id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^	protected $_id;$/;"	v
+_image	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    protected $_image = '<img alt="%s" src="%s" \/>';$/;"	v
+_init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _init()$/;"	f
+_init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    protected function _init()$/;"	f
+_init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _init()$/;"	f
+_initFilters	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        protected function _initFilters()$/;"	f
+_initValidators	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        protected function _initValidators()$/;"	f
+_interval	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $this->_interval = $interval;$/;"	v
+_interval	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    protected $_interval;$/;"	v
+_intervals	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    protected $_intervals = array(Zend_Date::DAY, Zend_Date::MONTH, Zend_Date::YEAR);$/;"	v
+_jQueryParams	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    protected $_jQueryParams = array ($/;"	v
+_label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_label = $label;$/;"	v
+_label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_label;$/;"	v
+_label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^            $this->_label = $this->_element->getTranslator()->translate($this->_label);$/;"	v
+_label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^            $this->_label = $this->_element->getTranslator()->translate($this->_label);$/;"	v
+_label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^            $this->_label = null;$/;"	v
+_log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^            $this->_log = $bootstrap->getResource('log');$/;"	v
+_log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    protected $_log;$/;"	v
+_logUntranslated	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^            $this->_logUntranslated = $this->_options['logUntranslated'];$/;"	v
+_logUntranslated	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^    protected $_logUntranslated = false;$/;"	v
+_media	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^        $this->_media = clone ($media);$/;"	v
+_media	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected $_media;$/;"	v
+_messageTemplates	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^    protected $_messageTemplates = array(self::LATER => 'The date %value% is in the future');$/;"	v
+_messageTemplates	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    protected $_messageTemplates = array(self::EARLIER => 'The date %value% is not in the future');$/;"	v
+_messageTemplates	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^    protected $_messageTemplates = array($/;"	v
+_messageTemplates	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/PhoneNumber.php	/^    protected $_messageTemplates = array($/;"	v
+_method	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $this->_method = $method;$/;"	v
+_method	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    protected $_method = 'GET';$/;"	v
+_minField	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^        $this->_minField = $fieldMin;$/;"	v
+_minValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^        $this->_minValue = $min;$/;"	v
+_minValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    protected $_minValue;$/;"	v
+_module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^        $this->_module = $module;$/;"	v
+_module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^    protected $_module;$/;"	v
+_name	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $this->_name = $handler->info('name');$/;"	v
+_name	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_name = $name;$/;"	v
+_name	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_name;$/;"	v
+_noEmptyValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_noEmptyValue = $noEmptyValue;$/;"	v
+_noEmptyValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected $_noEmptyValue = false;$/;"	v
+_noUpdateSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_noUpdateSelect = $noUpdate;$/;"	v
+_noUpdateSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_noUpdateSelect = false;$/;"	v
+_noacl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^    private $_noacl = array('module' => 'default',$/;"	v
+_noauth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^    private $_noauth = array('module' => 'default',$/;"	v
+_options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected $_options;$/;"	v
+_order	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $this->_order = $order;$/;"	v
+_order	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    protected $_order;$/;"	v
+_page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^            $this->_page = clone($page);$/;"	v
+_page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^    protected $_page;$/;"	v
+_permanent	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^        $this->_permanent = $permanent;$/;"	v
+_permanent	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^    protected $_permanent;$/;"	v
+_pollData	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    protected function _pollData(Dm_Model_Contact_Interface $contact, $extId)$/;"	f
+_populate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    private function _populate()$/;"	f
+_prepareSurvey	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _prepareSurvey (Dm_Model_Survey_Interface $survey)$/;"	f
+_prepareSurvey	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _prepareSurvey(Dm_Model_Survey_Interface $survey)$/;"	f
+_results	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected $_results;$/;"	v
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected abstract function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact);$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^    protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    protected function _sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+_sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected abstract function _sendMessages(Dm_Model_Message_Interface $message, $contacts);$/;"	f
+_sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^    protected function _sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+_sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    protected function _sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+_sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected function _sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+_sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    protected function _sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+_separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^        $this->_separator = $separator;$/;"	v
+_separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^    private $_separator = ",";$/;"	v
+_setDisableTranslator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_setDisableTranslator = false;$/;"	v
+_setOption	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _setOption($name, $value)$/;"	f
+_setPrivileges	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^	protected function _setPrivileges($role, $privileges)	{$/;"	f
+_setRessources	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^	protected function _setRessources($ressources)	{$/;"	f
+_setResult	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected function _setResult (Dm_Model_Contact_Interface $contact, $result)$/;"	f
+_setRoles	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^	protected function _setRoles($roles)	{$/;"	f
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$this->_src = (string) $src;$/;"	v
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^	protected $_src;$/;"	v
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$this->_src = (string) $src;$/;"	v
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	protected $_src;$/;"	v
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^        $this->_src = $front->getBaseUrl() . $this->_src;$/;"	v
+_src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^    protected $_src = "\/pictures\/enquete\/rafter.jpg";$/;"	v
+_substitutionRules	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^        $this->_substitutionRules = $substitutionRules;$/;"	v
+_substitutionRules	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^    private $_substitutionRules;$/;"	v
+_table	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $this->_table = $handler->info('name');$/;"	v
+_table	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    protected $_table;$/;"	v
+_tag	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^	protected $_tag = 'h2';$/;"	v
+_token	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^            $this->_token = null;$/;"	v
+_token	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $this->_token = $result->return;$/;"	v
+_token	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    protected $_token;$/;"	v
+_valid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    protected $_valid;$/;"	v
+_value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^	protected $_value = '';$/;"	v
+_vxml	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    protected $_vxml;$/;"	v
+_width	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$this->_width = (string) $width;$/;"	v
+_width	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	protected $_width = 20;$/;"	v
+accents	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Accent.php	/^		$accents = array('À','Á','Â','Ã','Ä','Å','Ç','È','É','Ê','Ë','Ì','Í','Î','Ï','Ò','Ó','Ô','Õ','Ö','Ù','Ú','Û','Ü','Ý','à','á','â','ã','ä','å','ç','è','é','ê','ë','ì','í','î','ï','ð','ò','ó','ô','õ','ö','ù','ú','û','ü','ý','ÿ');$/;"	v
+accept	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^    public function accept($event)$/;"	f
+acl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Acl.php	/^        $acl = new $class($ini);$/;"	v
+acl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $acl = $bootstrap->getResource('acl');$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^        $action = $this->getFrontController()->getRequest()->getActionName();$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $action = $request->getActionName();$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $action = $this->_noacl['action'];$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $action = $this->_noauth['action'];$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^                    Zend_Registry::get('log')->debug("Module : $module : Controlleur : $controller \/ Action : $action => On ne touche pas à l'url");$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^        $action = $request->getActionName();$/;"	v
+action	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $action = 'shorturl';$/;"	v
+actions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^					$actions = explode(',', $actions) ;$/;"	v
+actions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^					$actions = null ;$/;"	v
+actions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^                $actions = $exception[$controller];$/;"	v
+adapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^                $adapter = new Zend_Translate(array ('adapter' => 'array', 'content' => array('marquee' => $message), 'locale' => $key));$/;"	v
+adapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $adapter = new $name($options);$/;"	v
+adapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $adapter = self::$_adapter;$/;"	v
+addFilter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function addFilter(Dm_Model_Filter_Abstract $filter, $position = null)$/;"	f
+anchor	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    public function anchor(Zend_Navigation_Page $page = null, $options = array())$/;"	f
+answer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $answer = new Model_Survey_Answer();$/;"	v
+api_url	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $api_url = $this->getParam('lsmsUrl') . 'api\/';$/;"	v
+applySubstitutionRules	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^    public function applySubstitutionRules($message)$/;"	f
+auth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^        $auth = Zend_Auth::getInstance();$/;"	v
+auth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^            $auth = new Model_Auth();$/;"	v
+authAdapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^            $authAdapter = new Zend_Auth_Adapter_DbTable($dbAdapter);$/;"	v
+baseUrl	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $baseUrl = $frontController->getBaseUrl();$/;"	v
+billingTypes	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^        $billingTypes = $this->_media->getBillingTypes();$/;"	v
+body	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $body = strip_tags($message->getMessage());$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^        $bootstrap = $this->getBootstrap();$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Layout.php	/^        $bootstrap = $this->getBootstrap();$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^        $bootstrap = $this->getBootstrap();$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^        $bootstrap = $this->getBootstrap();$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $bootstrap = $this->getBootstrap();$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^            $bootstrap = $this->getFrontController()->getParam('bootstrap');$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $bootstrap = Zend_Controller_Front::getInstance()->getParam('bootstrap');$/;"	v
+bootstrap	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^        $bootstrap = Zend_Controller_Front::getInstance()->getParam('bootstrap');$/;"	v
+bottom	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $bottom = '<div class="bottomBox"><\/div>';$/;"	v
+cache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^                $cache = $cacheManager->getCache('default');$/;"	v
+cache	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $cache = new Zend_Cache_Frontend_Class($/;"	v
+cacheManager	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^                $cacheManager = $this->getBootstrap()->getResource('cachemanager');$/;"	v
+cachemanager	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^        $cachemanager = $bootstrap->getResource('cachemanager');$/;"	v
+campaignId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $campaignId = $return->return;$/;"	v
+caption	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$caption = $this->getOption ('caption');$/;"	v
+caption	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                        $caption = $translator->translate($caption);$/;"	v
+cellIterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^                        $cellIterator = $row->getCellIterator();$/;"	v
+cellIterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^                        $cellIterator = $row->getCellIterator();$/;"	v
+cellIterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^                        $cellIterator = $row->getCellIterator();$/;"	v
+ch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $ch = curl_init();$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Acl.php	/^        $class = $this->_options['class'];$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Log.php	/^            $class = 'Zend_Log';$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^ * The class class.tail.php$/;"	c
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$class     = $this->getClass();$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^			$class = 'step' . self::$_count;$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^		$class = $this->getOption('class');$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^\/\/        $class = $trace[$i]['class'];$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                    $class = $options['class'];$/;"	v
+class	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^            $class = $page->getClass();$/;"	v
+cnx	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^                $cnx = $dbAdapter->getConnection();$/;"	v
+col	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $col = $col['name'];$/;"	v
+col	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $col = $translator->translate($col);$/;"	v
+column	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $column = $this->_column;$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^        $columns = $this->_handler->info('cols');$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^    public function parse($fileName, $columns = array())$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/CsvNissan.php	/^    public function parse($fileName, $columns = array())$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^    public function parse($fileName, $columns = array())$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/EqcCitroen.php	/^    public function parse($fileName, $columns = array())$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^    public function parse($fileName, $columns = array())$/;"	v
+columns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/SatisExcel.php	/^    public function parse($fileName, $columns = array())$/;"	v
+compteur	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $compteur = 0;$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $cond = "{$this->_table}.{$this->_column} = ?";$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^                $cond = "{$this->_table}.{$column} LIKE ?";$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $cond = "DATE({$this->_table}.{$this->_column}) = ?";$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $cond = "MONTH({$this->_table}.{$this->_column}) = ?";$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $cond = "YEAR({$this->_table}.{$this->_column}) = ?";$/;"	v
+cond	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^                $cond = "{$this->_table}.{$column} LIKE ?";$/;"	v
+condition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^                        $condition = $from['joinCondition'];$/;"	v
+condition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^                $condition = $from['joinCondition'];$/;"	v
+condition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $condition = null;$/;"	v
+conditions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                $conditions = $message->getConditions();$/;"	v
+conditions	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^            $conditions = $message->getConditions();$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^        $config = $this->_options['authAdapter'];$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^            $config = $config->get($env);$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^        $config = new Zend_Config_Xml($options[0]);$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Config.php	/^        $config = new Zend_Config_Ini(APPLICATION_PATH . '\/config\/app.ini', APPLICATION_ENV);$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^            $config = $config->toArray();$/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^        $config = array_merge(array($/;"	v
+config	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^        $config = self::_parseConfig($config);$/;"	v
+contact	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $contact = $dom->createElement('contact');$/;"	v
+contact	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Message/Interface.php	/^    public function getMessage(Dm_Model_Contact_Interface $contact = null);$/;"	v
+contact	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $contact = $handler->createRow(array ('contact' => $value));$/;"	v
+contact1	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $contact1 = $dom->createElement('contact1');$/;"	v
+contact1Value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $contact1Value = $dom->createTextNode("+{$prefix}-{$number}");$/;"	v
+contactFile	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $contactFile = $this->_generateContactList($contacts);$/;"	v
+contactLines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^        $contactLines = file($fileName);$/;"	v
+contactList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $contactList = $dom->createElement('contacts');$/;"	v
+contactList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $contactList = $survey->getVoiceContactList();$/;"	v
+contactName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $contactName = $dom->createElement('contactName');$/;"	v
+contactNameValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $contactNameValue = $dom->createTextNode($_contact->getName());$/;"	v
+contactsList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $contactsList = $url . $contactFile;$/;"	v
+container	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^            $container = $this->getContainer();$/;"	v
+container	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    public function render(Zend_Navigation_Container $container = null)$/;"	v
+container	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^    public function render(Zend_Navigation_Container $container = null)$/;"	v
+containerEnd	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $containerEnd = '<\/div>';$/;"	v
+containerTop	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $containerTop = '<div class="middleBox"';$/;"	v
+content	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $content = array();$/;"	v
+content	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $content = preg_replace($pattern, $replacement, $content);$/;"	v
+content	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $content = preg_replace("\/[@|#]WKML_URL[@|#]\/", $data, $content);$/;"	v
+content	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $content = $this->_filter->filter($message->getMessage($contact));$/;"	v
+context	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function setDbTable(Zend_Db_Table_Abstract $handler, $context = null)$/;"	v
+context	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setDbTable(Zend_Db_Table_Abstract $handler, $context = null)$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^        $controller = $this->getFrontController()->getRequest()->getControllerName();$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $controller = $request->getControllerName();$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $controller = $this->_noacl['controller'];$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $controller = $this->_noauth['controller'];$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^        $controller = $request->getControllerName();$/;"	v
+controller	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function setAction($module = null, $controller = null, $action = null, $params = array())$/;"	v
+convertSubstitutionRules	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function convertSubstitutionRules($content)$/;"	f
+createCampaign	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function createCampaign($extMessageId, $extMailingListId)$/;"	f
+createContact	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    public function createContact(Dm_Model_Contact_Interface $contact, $id)$/;"	f
+createMailingList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function createMailingList($extMessageId)$/;"	f
+createMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function createMessage(Dm_Model_Message_Interface $message)$/;"	f
+createSegment	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function createSegment($extMessageId)$/;"	f
+csss	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $csss = $options['styles']['css'];$/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^                        $data = array();$/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^            $data = explode('\/', $magic);$/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $data = curl_exec($ch);$/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^                        $data = array();$/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^                $data = array($/;"	v
+data	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^                        $data = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^        $datas = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $datas = array('mobile' => $value, 'code' => $this->_getOption('masterCode'));$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $datas = array($/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $datas = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $datas = array($/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $datas = array_merge($datas, $params);$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^        $datas = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/CsvNissan.php	/^        $datas = parent::parse($fileName);$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^        $datas = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/EqcCitroen.php	/^        $datas = parent::parse($fileName,$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^        $datas = array();$/;"	v
+datas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/SatisExcel.php	/^        $datas = parent::parse($fileName,$/;"	v
+date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $date = new Zend_Date($survey->getDate());$/;"	v
+date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $date = new Zend_Date($value, 'DD-MM-YYYY');$/;"	v
+date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $date = new Zend_Date($value, 'MM-YYYY');$/;"	v
+date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $date = new Zend_Date($value, 'YYYY');$/;"	v
+date	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^                $date = $return['day'] . '\/' . $return['month'] . '\/20' . $return['year'];$/;"	v
+dbAdapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^            $dbAdapter = $bootstrap->getResource('db');$/;"	v
+dbAdapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^                $dbAdapter = $bootstrap->getResource('db');$/;"	v
+decorator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^			$decorator = new Zend_Form_Decorator_HtmlTag($options);$/;"	v
+defaultButton	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$defaultButton =<<<EOT$/;"	v
+defaultButton	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$defaultButton =<<<EOT$/;"	v
+defaultFrom	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $defaultFrom = $mail->getDefaultFrom();$/;"	v
+defaultLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$defaultLabel = $t->translate("Character counter");$/;"	v
+defaultLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$defaultLabel = $t->translate("By default");$/;"	v
+desc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $desc      = $this->buildDescription();$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^			$description = $decorator->render(NULL);$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^			$description = $translator->translate($description);$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^			$description = $view->escape($description);$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$description = $element->getDescription();$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$description = trim($description);$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^            $description = '<img class="rafter" src="' . $this->_src . '" alt="" \/>' . $description;$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^        $description = $element->getDescription();$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                $description = $message->getMessage($contact);$/;"	v
+description	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^            $description = $message->getMessage($contact);$/;"	v
+direct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Config.php	/^    public function direct()$/;"	f
+direct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^    public function direct($fileName)$/;"	f
+direct	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    public function direct($message, $priority, $extras = null)$/;"	f
+dmStatus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $dmStatus = new Dm_Media_Adapter_Status();$/;"	v
+dmStatus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $dmStatus = new Dm_Media_Adapter_Status();$/;"	v
+do	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		foreach ($privileges as $do => $ressources)	{$/;"	v
+doGrep	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function doGrep()$/;"	f
+dom	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $dom = new DomDocument();$/;"	v
+ecoSmsSoapClient	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $ecoSmsSoapClient = new SoapClient($this->_getOption('wsdl'));$/;"	v
+ecoSmsSoapClient	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $ecoSmsSoapClient = new SoapClient($this->_getOption('wsdl'));$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^        foreach ($failedElements as $element => $failedElement) {$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^        $element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                        $element = new Zend_Form_Element_Textarea('question');$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                    $element = new Zend_Form_Element_Radio('question');$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                    $element = new Zend_Form_Element_Textarea('question');$/;"	v
+element	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                $element = new Zend_Form_Element_Radio('question');$/;"	v
+env	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^        $env = APPLICATION_ENV;$/;"	v
+errorMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^                $errorMessage = $this->getElement()->getTranslator()->translate('Errors were detected. Please correct them');$/;"	v
+errors	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$errors = $element->getMessages();$/;"	v
+errors	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $errors    = $this->buildErrors();$/;"	v
+escape	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$escape    = $this->getEscape();$/;"	v
+est	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/BillingType/Interface.php	/^ * Cette interface est utilisée par les Dm_Media_Adapter$/;"	c
+est	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/BillingType/Interface.php	/^ * Cette interface est utilisée par les Dm_Media_Adapter$/;"	i
+est	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Interface.php	/^ * Cette interface est utilisée par les Dm_Media_Adapter$/;"	c
+est	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Interface.php	/^ * Cette interface est utilisée par les Dm_Media_Adapter$/;"	i
+exception	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^            $exception = $this->_exceptions[$module];$/;"	v
+extContactRef	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $extContactRef = $dom->createElement('extContactRef');$/;"	v
+extContactRefValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $extContactRefValue = $dom->createTextNode($_contact->getId());$/;"	v
+extMailingListId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $extMailingListId = $this->createMailingList($extMessageId);$/;"	v
+extMessageId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $extMessageId = $this->createMessage($message);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^        $extension = explode(".", $fileName);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^        $extension = strtoupper($extension[count($extension) - 1]);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^        $extension = explode(".", $fileName);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^        $extension = strtoupper($extension[count($extension) - 1]);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^        $extension = explode(".", $fileName);$/;"	v
+extension	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^        $extension = strtoupper($extension[count($extension) - 1]);$/;"	v
+extras	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^        $this->log($message, $priority, $extras = null);$/;"	v
+extras	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    public function direct($message, $priority, $extras = null)$/;"	v
+extras	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    public function log($message, $priority, $extras = null)$/;"	v
+extras	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    public function log($message, $priority, $extras = null)$/;"	v
+factory	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    static public function factory($config = array())$/;"	f
+factory	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log/Filter/Module.php	/^    public static function factory($config)$/;"	f
+failedElements	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^        $failedElements = $form->getMessages($form->getName(), true);$/;"	v
+fieldMin	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^    public function __construct($fieldHour = null, $fieldMin = null, $form = null)$/;"	v
+file	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $file = file_get_contents($filename);$/;"	v
+fileName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $fileName = rand(0, 100000) . '.xml';$/;"	v
+filePath	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $filePath = $this->_getOption('ContactListPath');$/;"	v
+filearray	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->filearray = $this->outputarray = file($this->filename);$/;"	v
+filearray	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $filearray = array();$/;"	v
+filename	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^                $filename = '\/tmp\/satisfeo-fallback.csv';$/;"	v
+filename	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $filename = tempnam("\/tmp", "Satisfeo");$/;"	v
+filename	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $this->filename = $filename;$/;"	v
+filename	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $filename;$/;"	v
+filesize	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $this->filesize = filesize($this->filename);$/;"	v
+filesize	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $filesize;$/;"	v
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Accent.php	/^	public function filter ($value) {$/;"	f
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^	public function filter($value)$/;"	f
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Date.php	/^    public function filter($value)$/;"	f
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^    public function filter($value)$/;"	f
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^    public function filter($value)$/;"	f
+filter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $filter = new Dm_Filter_PhoneNumber();$/;"	v
+filterSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function filterSelect(Zend_Db_Select $select)$/;"	f
+filterSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    final public function filterSelect(Zend_Db_Table_Select $select, $value)$/;"	f
+footer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$footer = $this->getOption ('footer');$/;"	v
+footer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                        $footer = $footer['name'];$/;"	v
+footer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                        $footer = $translator->translate($footer);$/;"	v
+form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^		$form = $this->getElement();$/;"	v
+form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^            $form = new Zend_Form();$/;"	v
+form	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^        $form = new Zend_Form();$/;"	v
+format	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^    public function format(Zend_Form $form)$/;"	f
+format	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $format = 'simple';       \/\/ format de réponse: 'json', 'xml' ou 'simple' (par défaut)$/;"	v
+format	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^    public function formatDate($date, $format = Zend_Date::DATE_MEDIUM)$/;"	v
+formatDate	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/FormatDate.php	/^    public function formatDate($date, $format = Zend_Date::DATE_MEDIUM)$/;"	f
+from	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $from = $select->getPart('from');$/;"	v
+from	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $from = reset($from);$/;"	v
+from	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $from = $this->_getHandlerSelect()->getPart('from');$/;"	v
+front	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/FlashMessenger.php	/^        $front = Zend_Controller_Front::getInstance();$/;"	v
+front	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^        $front = Zend_Controller_Front::getInstance();$/;"	v
+frontController	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $frontController = $bootstrap->getResource('frontController');$/;"	v
+function	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^\/\/        $function = $trace[$i]['function'];$/;"	v
+get	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^    public function get($key);$/;"	f
+getAdapter	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^    public static function getAdapter(Dm_Model_Media_Interface $media)$/;"	f
+getAnswer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function getAnswer(Dm_Model_Contact_Interface $contact, $extId)$/;"	f
+getBillingType	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function getBillingType()$/;"	f
+getBillingTypes	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Interface.php	/^    public function getBillingTypes ();$/;"	f
+getContact	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Contact/Interface.php	/^    public function getContact(Dm_Model_Media_Interface $media);$/;"	f
+getCost	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/BillingType/Interface.php	/^    public function getCost();$/;"	f
+getDate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^    public function getDate();$/;"	f
+getDefaultValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function getDefaultValue()$/;"	f
+getEcoSmsCode	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^    public function getEcoSmsCode();$/;"	f
+getElement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function getElement()$/;"	f
+getEloquantLogin	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^\/\/    public function getEloquantLogin();$/;"	f
+getEloquantPassword	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^\/\/    public function getEloquantPassword();$/;"	f
+getEmailProviderTruc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Credential/Interface.php	/^\/\/    public function getEmailProviderTruc();$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^    public function getExtId(Dm_Model_Contact_Interface $contact)$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^    public function getExtId(Dm_Model_Contact_Interface $contact);$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        public function getExtId(Dm_Model_Contact_Interface $contact)$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function getExtId(Dm_Model_Contact_Interface $contact)$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    public function getExtId(Dm_Model_Contact_Interface $contact)$/;"	f
+getExtId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    public function getExtId(Dm_Model_Contact_Interface $contact)$/;"	f
+getFilters	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function getFilters()$/;"	f
+getForm	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function getForm()$/;"	f
+getId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Table/Row/Interface.php	/^    public function getId();$/;"	f
+getLog	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Log.php	/^    public function getLog()$/;"	f
+getMedia	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function getMedia()$/;"	f
+getMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Message/Interface.php	/^    public function getMessage(Dm_Model_Contact_Interface $contact = null);$/;"	f
+getName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Contact/Interface.php	/^    public function getName();$/;"	f
+getOptSuffix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^    public function getOptSuffix()$/;"	f
+getParam	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function getParam($name) {$/;"	f
+getReqSuffix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^    public function getReqSuffix()$/;"	f
+getResult	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function getResult (Dm_Model_Contact_Interface $contact)$/;"	f
+getSrc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^	public function getSrc()$/;"	f
+getSrc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	public function getSrc()$/;"	f
+getStatus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^    public function getStatus(Dm_Model_Contact_Interface $contact, $extId)$/;"	f
+getStatus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    public function getStatus(Dm_Model_Contact_Interface $contact, $extId)$/;"	f
+getStatus	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function getStatus(Dm_Model_Contact_Interface $contact, $extId)$/;"	f
+getSubstitutionRules	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Contact/Interface.php	/^    public function getSubstitutionRules();$/;"	f
+getTitle	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Message/Interface.php	/^    public function getTitle();$/;"	f
+getTranslate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^    public function getTranslate()$/;"	f
+getValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function getValue ($name)$/;"	f
+getVoiceContactList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^    public function getVoiceContactList();$/;"	f
+getVxml	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^    public function getVxml();$/;"	f
+getWidth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	public function getWidth() {$/;"	f
+handler	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $handler = new Model_Contact();$/;"	v
+hasOption	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function hasOption ($name)$/;"	f
+hash	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^                $hash = $this->_options['hash'];$/;"	v
+hash	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^            $hash = false;$/;"	v
+header	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$header = $this->getOption ('headers');$/;"	v
+helper	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/FlashMessenger.php	/^        $helper = Zend_Controller_Action_HelperBroker::getStaticHelper('FlashMessenger');$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $highlight = "*" . $this->highlight . "*";$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $highlight = "<b>" . $this->highlight . "<\/b>";$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $highlight = $this->highlight;$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $highlight = '<span class="highlight">' . $this->highlight . '<\/span>';$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $highlight = "\\1";$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->highlight = $searchword;$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->highlight = $string;$/;"	v
+highlight	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $highlight;$/;"	v
+hour	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^            $hour = $this->_form->getElement($this->_hourField)->getValue();$/;"	v
+hour	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^            $hour = 0;$/;"	v
+href	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^            $href = $page->getHref();$/;"	v
+i	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^\/\/        $i = 0;$/;"	v
+id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$id = $this->_id;$/;"	v
+id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$id = $this->_id;$/;"	v
+id	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^            $id = $this->getOption('id');$/;"	v
+identity	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^            $identity = $auth->getIdentity();$/;"	v
+identity	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $identity = Zend_Auth::getInstance()->getIdentity();$/;"	v
+identity	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^            $identity = Zend_Auth::getInstance()->getIdentity();$/;"	v
+identity	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^            $identity = Zend_Auth::getInstance()->getIdentity();$/;"	v
+ini	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Acl.php	/^        $ini = $this->_options['ini'];$/;"	v
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Acl.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/App.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Filter.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Layout.php	/^    public function init() {$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Media.php	/^    public function init()$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Pagination.php	/^    public function init() {$/;"	f
+init	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^    public function init()$/;"	f
+initExcelContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function initExcelContext()$/;"	f
+initPdfContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function initPdfContext()$/;"	f
+input	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $input     = $this->buildInput();$/;"	v
+is	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^ * The tail class is for structured reading of files$/;"	c
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^    public function isBillable(Dm_Model_Contact_Interface $contact)$/;"	f
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^    public function isBillable (Dm_Model_Contact_Interface $contact);$/;"	f
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        public function isBillable(Dm_Model_Contact_Interface $contact)$/;"	f
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function isBillable(Dm_Model_Contact_Interface $contact)$/;"	f
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    public function isBillable(Dm_Model_Contact_Interface $contact)$/;"	f
+isBillable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    public function isBillable(Dm_Model_Contact_Interface $contact)$/;"	f
+isMobileValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function isMobileValid($value)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^    public function isValid (Dm_Model_Contact_Interface $contact)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^    public function isValid (Dm_Model_Contact_Interface $contact);$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        public function isValid(Dm_Model_Contact_Interface $contact)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $isValid = ($return->mobile->check == 'ok');$/;"	v
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function isValid(Dm_Model_Contact_Interface $contact)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    public function isValid (Dm_Model_Contact_Interface $contact)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    public function isValid (Dm_Model_Contact_Interface $contact)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/AlphaPlus.php	/^	public function isValid($value)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^    public function isValid($value)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^    public function isValid($value)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    public function isValid($value)$/;"	f
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $isValid = self::$_adapter->isMobileValid($value);$/;"	v
+isValid	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^    public function isValid($value)$/;"	f
+iterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^            $iterator = $sheet->getRowIterator();$/;"	v
+iterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^            $iterator = $sheet->getRowIterator();$/;"	v
+iterator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^            $iterator = $sheet->getRowIterator();$/;"	v
+join	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $join = current($reversedFrom);$/;"	v
+jquery	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^                    $jquery = $bootstrap->getResource('jquery');$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/App.php	/^        foreach ($this->getOptions() as $key => $option) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^            foreach ($config as $key => $message) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^            foreach ($iterator as $key => $row) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^            foreach ($_GET as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^			foreach ($options as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^        foreach ($config as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        foreach ($contact->toArray() as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^                    foreach ((array) $return as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            foreach ($this->_datas as $key => $value) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $key = $newest->get(Zend_Date::DAY) . "-" . $newest->get(Zend_Date::MONTH) . "-" . $newest->get(Zend_Date::YEAR);$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $key = $newest->get(Zend_Date::MONTH) . "-" . $newest->get(Zend_Date::YEAR);$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^                        foreach ($cellIterator as $key => $cell) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^            foreach ($iterator as $key => $row) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^                        foreach ($cellIterator as $key => $cell) {$/;"	v
+key	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^            foreach ($iterator as $key => $row) {$/;"	v
+keyword	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $keyword = '';        \/\/ mot-clé (optionel)$/;"	v
+label	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $label     = $this->buildLabel();$/;"	v
+label	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                $label = $this->getTranslator()->translate($options['label']);$/;"	v
+label	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                $label = $this->getTranslator()->translate($page->getLabel());$/;"	v
+label	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                $label = sprintf($this->_image, $label, $options['image']);$/;"	v
+lastline	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $lastline;$/;"	v
+launch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    public function launch(Dm_Model_Survey_Interface $survey)$/;"	f
+launch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^        public function launch(Dm_Model_Survey_Interface $survey)$/;"	f
+launch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^    public function launch(Dm_Model_Survey_Interface $survey)$/;"	f
+launch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^    public function launch(Dm_Model_Survey_Interface $survey)$/;"	f
+launch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^    public function launch(Dm_Model_Survey_Interface $survey)$/;"	f
+layout	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Layout.php	/^        $layout = Zend_Layout::getMvcInstance();$/;"	v
+layout	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/FlashMessenger.php	/^        $layout = Zend_Layout::getMvcInstance();$/;"	v
+lines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->lines = count($this->filearray);$/;"	v
+lines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $lines;$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^        $locale = $this->getLocale();$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^            $locale = $bootstrap->getResource('Locale');$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^            $locale = $locale->__toString();$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^        $locale = Zend_Registry::get('Zend_Locale');$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^            $locale = $identity->getLocale();$/;"	v
+locale	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^            $locale = Zend_Registry::get('Zend_Locale');$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Locale.php	/^                $log = $bootstrap->getResource('log');$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Log.php	/^            $log = Dm_Log::factory($options);$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^        $log = $bootstrap->getResource('Log');$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Translate.php	/^                $log = $this->getBootstrap()->getResource('log');$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^    public function log($message, $priority, $extras = null)$/;"	f
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^            $log = new $config['class'];$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^            $log = new Zend_Log();$/;"	v
+log	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    public function log($message, $priority, $extras = null)$/;"	f
+login	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function login()$/;"	f
+logout	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    private function logout()$/;"	f
+longEQC	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^            $longEQC = '\/(?<name>.{30})(?<surname>.{20})(?<phone>.{10}).{2}(?<day>.{2})(?<month>.{2})(?<year>.{2})(?<order>.{7}).{3}.{21}.{60}.{5}.{30}.{6}.{5}.{10}(?<email>.{100})(?<agreement>.{1})\/';$/;"	v
+magic	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^            $magic = base64_decode($magic, true);$/;"	v
+magic	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^        $magic = $this->getRequest()->getParam('magic');$/;"	v
+mail	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $mail = new Zend_Mail('UTF-8');$/;"	v
+mailList	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^        $mailList = explode($this->_separator, $value);$/;"	v
+markup	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^		$markup = $this->_recurseForm($form, $view);$/;"	v
+markup	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^		$markup = '<span class="errors">(*) : '.$errorMessage . '<\/span>';$/;"	v
+max	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                            $max = $this->getParam('maxLength');$/;"	v
+max	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                        $max = $this->getParam('maxLength');$/;"	v
+maxLengthDescription	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                            $maxLengthDescription = sprintf($translate->translate('Max length : %d characters'), $max);$/;"	v
+maxLengthDescription	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                        $maxLengthDescription = sprintf($translate->translate('Max length : %d characters'), $max);$/;"	v
+media	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $media = Model_Media::findByName('Voice');$/;"	v
+mediaName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^        $mediaName = $media->__toString();$/;"	v
+mediaType	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Credential.php	/^        $mediaType = $adapter->getMedia()->getType();$/;"	v
+message	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^            $message = "[{$identity}({$identity->getId()})] {$message}";$/;"	v
+message	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^\/\/        $message = "[$class:$function] $message";$/;"	v
+messages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^                    $messages = array_merge($messages, $this->format($form->getSubForm($element)));$/;"	v
+messages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ErrorMessages.php	/^        $messages = array();$/;"	v
+method	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $method = "selectFor" . ucfirst($this->_context);$/;"	v
+min	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^            $min = $this->_form->getElement($this->_minField)->getValue();$/;"	v
+min	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^            $min = 0;$/;"	v
+min	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^    public function __construct($hour = 0, $min = 0)$/;"	v
+module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Log.php	/^        $module = $this->getFrontController()->getRequest()->getModuleName();$/;"	v
+module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $module = $request->getModuleName();$/;"	v
+module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $module = $this->_noacl['module'];$/;"	v
+module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $module = $this->_noauth['module'];$/;"	v
+module	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^        $module = $request->getModuleName();$/;"	v
+moduleName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Module.php	/^            $moduleName = '';$/;"	v
+moduleName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Module.php	/^        $moduleName = $request->getModuleName();$/;"	v
+name	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $name = $name.'_'.self::$_config[$mediaName]['adapterName'];$/;"	v
+name	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $name = 'Dm_Media_Adapter_' . $mediaName;$/;"	v
+nb	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^        $nb = count ($contacts);$/;"	v
+nbCols	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                    $nbCols = count ($header);$/;"	v
+newPasswordCondition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^                    $newPasswordCondition = "MD5(CONCAT(?, '" . $salt . "'))";$/;"	v
+newPasswordCondition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^                    $newPasswordCondition = "SHA1(CONCAT(?, '" . $salt . "'))";$/;"	v
+newPasswordCondition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^                    $newPasswordCondition = '?';$/;"	v
+newPasswordCondition	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^            $newPasswordCondition = false;$/;"	v
+new_timestamp	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $new_timestamp = filemtime($this->filename);$/;"	v
+newest	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $newest = $this->_handler->fetchRow($this->_handler->selectByRole()->limit(1)->order("{$column} DESC"));$/;"	v
+newest	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $newest = new Zend_Date($newest->$column);$/;"	v
+number	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $number = $_contact->getLocalNumber($media);$/;"	v
+number	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            $number = 1;$/;"	v
+number	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            $number = 2;$/;"	v
+number	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^            $number = 1;$/;"	v
+number	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^            $number = 2;$/;"	v
+obj	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^        $obj = $reader->load($fileName);$/;"	v
+obj	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^        $obj = $reader->load($fileName);$/;"	v
+obj	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^        $obj = $reader->load($fileName);$/;"	v
+objPHPExcel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $objPHPExcel = new PHPExcel();$/;"	v
+oldest	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $oldest = $this->_handler->fetchRow($this->_handler->selectByRole()->limit(1)->order("{$column} ASC"));$/;"	v
+oldest	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^        $oldest = new Zend_Date($oldest->$column);$/;"	v
+openFile	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function openFile()$/;"	f
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Log.php	/^            $options = $this->getOptions();$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^        $options = $this->getOptions();$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $options = $this->_options['options'];$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$options   = $this->getOptions();$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$options = $this->getOption ('options');$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $options = $col['options'];$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $options = array();$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                        $options = $footer['options'];$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                        $options = array();$/;"	v
+options	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^                $options = self::$_config[$mediaName];$/;"	v
+orWhere	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^            $orWhere = $select->getPart('where');$/;"	v
+orWhere	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^            $orWhere = $select->getPart('where');$/;"	v
+output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $output = $pre_output;$/;"	v
+output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function output($format = PLAIN)$/;"	f
+output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $output = "";$/;"	v
+output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$output = '<span class="errors">*<\/span>';$/;"	v
+output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		$output = '<table';$/;"	v
+outputarray	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $this->outputarray = preg_grep($this->regexpr, $this->filearray);$/;"	v
+outputarray	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $outputarray = array();$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $page = new Zend_Pdf_Page(Zend_Pdf_Page::SIZE_A4);$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $page = $view->page();$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^        $page = $page['page'];$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^        $page = $this->findActive($container);$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    public function anchor(Zend_Navigation_Page $page = null, $options = array())$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^            $page = $this->view->navigation()->findOneBy('active', '1');$/;"	v
+page	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^    public function page()$/;"	f
+params	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^                $params = $request->getParams();$/;"	v
+params	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^                $params = $request->getParams();$/;"	v
+params	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^        $params = $request->getParams();$/;"	v
+parents	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^				$parents = explode(',', $parents) ;$/;"	v
+parents	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^				$parents = null ;$/;"	v
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^    public function parse($fileName, $columns = array())$/;"	f
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/CsvNissan.php	/^    public function parse($fileName, $columns = array())$/;"	f
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^    public function parse($fileName, $columns = array())$/;"	f
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/EqcCitroen.php	/^    public function parse($fileName, $columns = array())$/;"	f
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^    public function parse($fileName, $columns = array())$/;"	f
+parse	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/SatisExcel.php	/^    public function parse($fileName, $columns = array())$/;"	f
+password	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $password = $this->getParam('lsmsCredential'); \/\/'10jtalmedia';$/;"	v
+path	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^                $path = $router->assemble($params, null, true);$/;"	v
+path	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^            $path = $router->assemble($request->getParams());$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^			$pattern = '\/[^\\p{L}\\-\\.' . $whiteSpace . ']\/u';$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^			$pattern = '\/[^a-zA-Z\\-\\.'  . $whiteSpace . ']\/u';$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^			$pattern = '\/[^a-zA-Z\\-\\.' . $whiteSpace . ']\/';$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^                    $pattern = $datas['pattern'];$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^            $pattern = self::$patterns[$locale]['pattern'];$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $pattern = '\/(\\#){1}([a-z]*)(\\#){1}\/';$/;"	v
+pattern	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/PhoneNumber.php	/^        $pattern = "\/^(\\+)?\\d{2,}$\/";$/;"	v
+patterns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^        $patterns = array();$/;"	v
+patterns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^    private static $patterns;$/;"	v
+pdf	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $pdf = $view->pdf;$/;"	v
+pdf	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $pdf = new Zend_Pdf();$/;"	v
+placement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$placement = $this->getPlacement();$/;"	v
+placement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$placement = $this->getPlacement();$/;"	v
+placement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$placement = $this->getPlacement();$/;"	v
+placement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $placement = $this->getPlacement();$/;"	v
+player	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$player = <<<EOT$/;"	v
+position	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function addFilter(Dm_Model_Filter_Abstract $filter, $position = null)$/;"	v
+postCsvContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function postCsvContext()$/;"	f
+postPdfContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function postPdfContext()$/;"	f
+postXlsContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function postXlsContext()$/;"	f
+postXlsxContext	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^    public function postXlsxContext()$/;"	f
+post_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_line = "<\/li>";$/;"	v
+post_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_line = "<\/line>\\n";$/;"	v
+post_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_line = "<\/p>";$/;"	v
+post_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_line = "<br\/>";$/;"	v
+post_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $post_line = "\\n";$/;"	v
+post_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_output = "<\/list>";$/;"	v
+post_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_output = "<\/ol>";$/;"	v
+post_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $post_output = "<\/ul>";$/;"	v
+post_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $post_output = "";$/;"	v
+preDispatch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^    public function preDispatch(Zend_Controller_Request_Abstract $request)$/;"	f
+preDispatch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^    public function preDispatch(Zend_Controller_Request_Abstract $request)$/;"	f
+preDispatch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/FlashMessenger.php	/^    public function preDispatch(Zend_Controller_Request_Abstract $request)$/;"	f
+preDispatch	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Module.php	/^    public function preDispatch(Zend_Controller_Request_Abstract $request)$/;"	f
+pre_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_line = "";$/;"	v
+pre_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_line = "<li>";$/;"	v
+pre_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_line = "<line>";$/;"	v
+pre_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_line = "<p>";$/;"	v
+pre_line	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $pre_line = "";$/;"	v
+pre_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_output = "<?xml version=\\"1.0\\" encoding=\\"ISO-8859-1\\"?>\\n<list>";$/;"	v
+pre_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_output = "<ol>";$/;"	v
+pre_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $pre_output = "<ul>";$/;"	v
+pre_output	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $pre_output = "";$/;"	v
+prefix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^            $prefix = Zend_Locale::getTranslation($locale->getRegion(), 'phonetoterritory');$/;"	v
+prefix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $prefix = $_contact->getPrefix($media);$/;"	v
+prependMiddle	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $prependMiddle = $this->getOption('middle');$/;"	v
+prependTop	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $prependTop = $this->getOption('top');$/;"	v
+primary	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $primary = $handler->info('primary');$/;"	v
+priority	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^    public static function Trace($message, $priority = "debug")$/;"	v
+privilege	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $privilege = $page->getPrivilege();$/;"	v
+privileges	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^			$privileges = new Zend_Config_Ini($file, $role) ;$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^                $reader = PHPExcel_IOFactory::createReader("CSV");$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^                $reader = PHPExcel_IOFactory::createReader("Excel2007");$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelParser.php	/^                $reader = PHPExcel_IOFactory::createReader("Excel5");$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Csv.php	/^                $reader = PHPExcel_IOFactory::createReader("CSV");$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^                $reader = PHPExcel_IOFactory::createReader("Excel2007");$/;"	v
+reader	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Excel.php	/^                $reader = PHPExcel_IOFactory::createReader("Excel5");$/;"	v
+regexp	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $regexp = '';$/;"	v
+regexpr	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^                $output .= ( $this->regexpr == '') ? $this->outputarray[$i] : str_replace($this->highlight, $highlight, $this->outputarray[$i]);$/;"	v
+regexpr	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->regexpr = "~.*(" . $searchword . ").*~i";$/;"	v
+regexpr	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->regexpr = "~.*(" . $string . ").*~i";$/;"	v
+regexpr	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->regexpr = '~(' . $regexp . ')~';$/;"	v
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^	public function render($content) {$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^	public function render($content) {$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^	public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^	public function render ($content) {$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RafterDescription.php	/^    public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^    public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^	public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^	public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^	public function render($content)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^    public function render(Zend_Navigation_Container $container = null)$/;"	f
+render	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Page.php	/^    public function render(Zend_Navigation_Container $container = null)$/;"	f
+renderForm	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^                    $renderForm = true;$/;"	v
+renderForm	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^            $renderForm = false;$/;"	v
+replacement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^                    $replacement = $datas['localized'];$/;"	v
+replacement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^            $replacement = self::$patterns[$locale]['unlocalized'];$/;"	v
+replacement	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $replacement = '[EMV FIELD]$2[EMV \/FIELD]';$/;"	v
+replacements	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^        $replacements = array();$/;"	v
+request	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^            $request = array($/;"	v
+request	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $request = array($/;"	v
+request	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^            $request = Zend_Controller_Front::getInstance()->getRequest();$/;"	v
+resource	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $resource = $page->getResource();$/;"	v
+response	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^                $response = $this->getResponse();$/;"	v
+ressource	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^			foreach ($ressources as $ressource => $actions)	{$/;"	v
+ressource	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		foreach ($ressources as $ressource => $parents)	{$/;"	v
+ressources	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		$ressources = new Zend_Config_Ini($file, 'ressources') ;$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^            $result = $auth->authenticate($data[0], $data[1]);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^            $result = $this->_apiCampaign->openApiConnection($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiCampaign->createBasicSegmentByObj($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiCampaign->createCampaignByObj($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiCampaign->createEmailMessageByObj($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiCampaign->createMailingListByObj($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiCampaign->openApiConnection($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $result = $this->_apiMember->insertMemberByObj($request);$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $result = $ecoSmsSoapClient->smsStatus(array('sms_id' => $extId, 'code' => $this->_getOption('masterCode')));$/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $result = $ecoSmsSoapClient->smsSend($/;"	v
+result	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $result = $this->getResult($contact);$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^        $return = preg_replace($patterns, $replacements, $message);$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^		$return = preg_replace($pattern, '', (string) $value);$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $return = "<![CDATA[";$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^        $return = $return."[EMV HTMLPART]".$content."]";$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $return = $soapClient->mobilesCheck($datas);$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $return = $this->_getSoapClient()->createCampaign(array('campaign' => $datas));$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $return = $this->_prepareSurvey($survey);$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EarlierDate.php	/^        $return = $this->_value->isEarlier(Zend_Date::now());$/;"	v
+return	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/FutureDate.php	/^        $return = $this->_value->isLater(Zend_Date::now());$/;"	v
+reversedFrom	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $reversedFrom = array_reverse($from);$/;"	v
+role	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		foreach ($roles as $role => $parents)	{$/;"	v
+role	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		foreach ($roles->toArray() as $role => $parents)	{$/;"	v
+role	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^            $role = 'guest';$/;"	v
+role	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^            $role = Zend_Auth::getInstance()->getIdentity()->getRole();$/;"	v
+roles	../../NetBeansProjects/www.satisfeo.net/library/Dm/Acl.php	/^		$roles = new Zend_Config_Ini($file, 'roles') ;$/;"	v
+routeShutdown	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^    public function routeShutdown(Zend_Controller_Request_Abstract $request)$/;"	f
+router	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Auth.php	/^                $router = Zend_Controller_Front::getInstance()->getRouter();$/;"	v
+router	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/CleanQuery.php	/^            $router = Zend_Controller_Front::getInstance()->getRouter();$/;"	v
+router	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $router = Zend_Controller_Front::getInstance()->getRouter();$/;"	v
+row	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            $row = $this->_handler->createRow();$/;"	v
+rowset	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^            $rowset = $this->_handler->fetchAll($this->_getHandlerSelect(), $this->_order);$/;"	v
+salt	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^                $salt = $this->_options['salt'];$/;"	v
+salt	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Auth.php	/^            $salt = false;$/;"	v
+searched	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/SubstitutionHandler.php	/^        foreach ((array) $this->_substitutionRules as $searched => $replacement) {$/;"	v
+select	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^            $select = $filter->filterSelect($select, $this->getForm()->getValue($filter->getElement()->getName()));$/;"	v
+select	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $select = $this->_handler->$method();$/;"	v
+select	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^            $select = $this->_handler->select(Zend_Db_Table_Abstract::SELECT_WITH_FROM_PART);$/;"	v
+select	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^        $select = $this->_filter($select, $value);$/;"	v
+sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public final function sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact)$/;"	f
+sendMessage	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^    public function sendMessage(Dm_Model_Message_Interface $message, Dm_Model_Contact_Interface $contact);$/;"	f
+sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public final function sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/EmailVision.php	/^    public function sendMessages(Dm_Model_Message_Interface $message, $contacts)$/;"	f
+sendMessages	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Interface.php	/^    public function sendMessages(Dm_Model_Message_Interface $message, $contacts);$/;"	f
+senderName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $senderName = 'todo@digitaleo.com';$/;"	v
+senderName	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^\/\/        $senderName = $message->getSender();$/;"	v
+separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $separator = $identity->getCsvSeparator();$/;"	v
+separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$separator = $this->getSeparator();$/;"	v
+separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$separator = $this->getSeparator();$/;"	v
+separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$separator = $this->getSeparator();$/;"	v
+separator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^		 $separator = $this->getSeparator();$/;"	v
+session	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Layout.php	/^        $session = new Zend_Session_Namespace('login');$/;"	v
+session	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^            $session = new Zend_Session_Namespace('login');$/;"	v
+set	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Survey/Interface.php	/^    public function set($key, $value);$/;"	f
+setAction	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function setAction($module = null, $controller = null, $action = null, $params = array())$/;"	f
+setButtonLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function setButtonLabel($label)$/;"	f
+setColumn	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    public function setColumn($column)$/;"	f
+setColumns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    public function setColumns($columns)$/;"	f
+setColumns	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^    public function setColumns($columns)$/;"	f
+setConfig	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/DisplayablePhoneNumber.php	/^    public static function setConfig($options){$/;"	f
+setConfig	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Factory.php	/^    public static function setConfig($config)$/;"	f
+setCredential	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Media/Credential.php	/^    public static function setCredential ($adapter, Dm_Model_Credential_Interface $credential)$/;"	f
+setDatas	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setDatas($datas)$/;"	f
+setDbTable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function setDbTable(Zend_Db_Table_Abstract $handler, $context = null)$/;"	f
+setDbTable	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setDbTable(Zend_Db_Table_Abstract $handler, $context = null)$/;"	f
+setDefaultLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setDefaultLabel($label)$/;"	f
+setDefaultValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setDefaultValue ($value = null)$/;"	f
+setGrep	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function setGrep($searchword)$/;"	f
+setGrepRegExpr	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function setGrepRegExpr($regexp)$/;"	f
+setGrepi	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function setGrepi($string)$/;"	f
+setId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^	public function setId ($id) {$/;"	f
+setId	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^	public function setId ($id) {$/;"	f
+setInterval	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^    public function setInterval($interval = Zend_Date::DAY)$/;"	f
+setLabel	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function setLabel($label)$/;"	f
+setMedia	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function setMedia (Dm_Model_Media_Interface $media)$/;"	f
+setMethod	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^    public function setMethod($method)$/;"	f
+setNoEmptyValue	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setNoEmptyValue ($noEmptyValue = false)$/;"	f
+setNoUpdateSelect	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Abstract.php	/^    public function setNoUpdateSelect($noUpdate = true)$/;"	f
+setNumberOfLines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function setNumberOfLines($lines)$/;"	f
+setOrder	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select.php	/^    public function setOrder ($order)$/;"	f
+setParam	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Abstract.php	/^    public function setParam ($name, $value)$/;"	f
+setParam	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^    public function setParam($param, $value)$/;"	f
+setSeparator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/EmailAdressList.php	/^    public function setSeparator($separator){$/;"	f
+setSrc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^	public function setSrc($src)$/;"	f
+setSrc	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	public function setSrc($src)$/;"	f
+setWidth	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^	public function setWidth($width)$/;"	f
+shortEQC	../../NetBeansProjects/www.satisfeo.net/library/Dm/Parser/Eqc.php	/^            $shortEQC = '\/(?<name>.{30})(?<surname>.{20})(?<phone>.{10}).{2}(?<day>.{2})(?<month>.{2})(?<year>.{2})(?<order>.{7})\/';$/;"	v
+showlines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^        $this->showlines = $lines;$/;"	v
+showlines	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $showlines = 10;$/;"	v
+soapClient	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $soapClient = new Zend_Soap_Client($this->_getOption('wsdl'));$/;"	v
+soapClient	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^            $soapClient = new Zend_Soap_Client($this->_getOption('wsdl'));$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^				$src = '';$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^			$src = $this->getOption('src');$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$src	   = $this->getSrc();$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^				$src = '';$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^			$src = $this->getOption('src');$/;"	v
+src	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$src	   = $this->getSrc();$/;"	v
+start	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $start = '<th class="optional">';$/;"	v
+start	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                                $start = '<th>';$/;"	v
+status	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $status = $this->getStatus($contact, $extId);$/;"	v
+subject	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $subject = $message->getTitle();$/;"	v
+submit	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter.php	/^        $submit = new Zend_Form_Element_Submit('Ok');$/;"	v
+suffix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^            $suffix = '(' . $translator->translate('optional') . ')';$/;"	v
+suffix	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^        $suffix = '';$/;"	v
+t	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$t = $element->getTranslator();$/;"	v
+t	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$t = $element->getTranslator();$/;"	v
+t	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^		$t = $this->getElement()->getTranslator();$/;"	v
+tag	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$tag       = $this->getTag();$/;"	v
+tag	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^			$tag = $this->_tag;$/;"	v
+tag	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^		$tag = $this->getOption('tag');$/;"	v
+tail	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function tail($filename)$/;"	f
+text	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Default.php	/^        $text = $message->getMessage($contact);$/;"	v
+timestamp	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^            $this->timestamp = $new_timestamp;$/;"	v
+timestamp	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    var $timestamp = 0;$/;"	v
+title	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                $title = $this->getTranslator()->translate($options['title']);$/;"	v
+title	../../NetBeansProjects/www.satisfeo.net/library/Dm/View/Helper/Anchor.php	/^                $title = $this->getTranslator()->translate($page->getTitle());$/;"	v
+top	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/RoundedCorners.php	/^        $top = '<div class="topBox"><\/div>';$/;"	v
+trace	../../NetBeansProjects/www.satisfeo.net/library/Dm/Log.php	/^\/\/        $trace = debug_backtrace();$/;"	v
+translate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Marquee.php	/^            $translate = $bootstrap->getResource('Translate');$/;"	v
+translate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                            $translate = $element->getTranslator();$/;"	v
+translate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                        $translate = $element->getTranslator();$/;"	v
+translator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Label.php	/^        $translator = $this->getElement()->getTranslator();$/;"	v
+translator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Table.php	/^                $translator = $element->getTranslator();$/;"	v
+updatestats	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/Tail.php	/^    function updatestats()$/;"	f
+url	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^            $url = WOKUP_RENDERER_URL . "?survey={$contact->surveyId}&amp;contact=" . urlencode($contact->getContact($this->_media));$/;"	v
+url	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $url = $this->getParam('rendererUrl') . "?mode=start&survey={$contact->surveyId}&contact=" . str_replace('+', '%2B', $contact->getContact($this->_media));         \/\/ URL à raccourcir$/;"	v
+url	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $url = $this->_getOption('ContactListUrl');$/;"	v
+username	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^            $username = $this->getParam('lsmsUser'); \/\/'root';$/;"	v
+validate	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Date.php	/^        $validate = new Zend_Validate_Date();$/;"	v
+validator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^        $validator = new Zend_Validate_EmailAddress();$/;"	v
+validator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Mobile.php	/^                            $validator = new Zend_Validate_StringLength(array('max' => $max, 'encoding' => 'UTF-8'));$/;"	v
+validator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $validator = new Dm_Validate_PhoneNumber();$/;"	v
+validator	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Web.php	/^                        $validator = new Zend_Validate_StringLength(array('max' => $max, 'encoding' => 'UTF-8'));$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Accent.php	/^		$value = str_replace ($accents, $without, $value);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^                $value = substr($value, 1);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^            $value = "+{$prefix}{$value}";$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/PhoneNumber.php	/^            $value = parent::filter($value);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^			$value = sprintf ($t->translate('Step %s'), self::$_count);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^		$value = $this->getOption('value');$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgStep.php	/^                    $value = $t->translate($value);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Email/Abstract.php	/^        $value = $contact->getContact($this->getMedia());$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/SMS.php	/^        $value = $contact->getContact($this->getMedia());$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $value = $contact->getContact($this->getMedia());$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $value = $newest->get(Zend_Date::DATE_MEDIUM);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $value = $newest->get(Zend_Date::YEAR);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Select/Date.php	/^                    $value = ucfirst($newest->get(Zend_Date::MONTH_NAME)) . ' ' . $newest->get(Zend_Date::YEAR);$/;"	v
+value	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/MobilePhoneNumber.php	/^        $value = $filter->filter($value);$/;"	v
+valueString	../../NetBeansProjects/www.satisfeo.net/library/Dm/Validate/AlphaPlus.php	/^		$valueString = (string) $value;$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Application/Resource/Viewhelper.php	/^        $view = $bootstrap->getResource('view');$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^        $view = $viewRenderer->view;$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Plugin/Acl.php	/^        $view = Zend_Layout::getMvcInstance()->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Counter.php	/^		$view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/DefaultMessage.php	/^		$view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ImgDescription.php	/^		$view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortErrors.php	/^		$view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/ShortFormErrors.php	/^		$view = $form->getView();$/;"	v
+viewRenderer	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^        $viewRenderer = Zend_Controller_Action_HelperBroker::getStaticHelper('viewRenderer');$/;"	v
+vxml	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $vxml = $message->getVxml();$/;"	v
+vxml	../../NetBeansProjects/www.satisfeo.net/library/Dm/Media/Adapter/Voice.php	/^        $vxml = $survey->getVxml();$/;"	v
+where	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Date.php	/^            $where = $select->getPart('where');$/;"	v
+where	../../NetBeansProjects/www.satisfeo.net/library/Dm/Model/Filter/Text.php	/^            $where = $select->getPart('where');$/;"	v
+whiteSpace	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/AlphaPlus.php	/^		$whiteSpace = $this->allowWhiteSpace ? '\\s' : '';$/;"	v
+width	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^			$width = $this->getOption('width');$/;"	v
+width	../../NetBeansProjects/www.satisfeo.net/library/Dm/Form/Decorator/Mp3player.php	/^		$width	   = $this->getWidth();$/;"	v
+without	../../NetBeansProjects/www.satisfeo.net/library/Dm/Filter/Accent.php	/^		$without = array('A','A','A','A','A','A','C','E','E','E','E','I','I','I','I','O','O','O','O','O','U','U','U','U','Y','a','a','a','a','a','a','c','e','e','e','e','i','i','i','i','o','o','o','o','o','o','u','u','u','u','y','y');$/;"	v
+xls	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $xls = PHPExcel_IOFactory::createWriter($view->excel, 'CSV');$/;"	v
+xls	../../NetBeansProjects/www.satisfeo.net/library/Dm/Controller/Action/Helper/ExcelContext.php	/^            $xls = PHPExcel_IOFactory::createWriter($view->excel, 'Excel2007');$/;"	v

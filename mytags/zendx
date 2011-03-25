@@ -1,0 +1,641 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ZendX_Application_Resource_Jquery	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^class ZendX_Application_Resource_Jquery$/;"	c
+ZendX_Console_Exception	../../NetBeansProjects/library/ZendX/Console/Exception.php	/^class ZendX_Console_Exception extends ZendX_Exception$/;"	c
+ZendX_Console_Process_Exception	../../NetBeansProjects/library/ZendX/Console/Process/Exception.php	/^class ZendX_Console_Process_Exception extends ZendX_Console_Exception$/;"	c
+ZendX_Console_Process_Unix	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^abstract class ZendX_Console_Process_Unix$/;"	c
+ZendX_Db_Adapter_Firebird	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^class ZendX_Db_Adapter_Firebird extends Zend_Db_Adapter_Abstract$/;"	c
+ZendX_Db_Adapter_Firebird_Exception	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird/Exception.php	/^class ZendX_Db_Adapter_Firebird_Exception extends Zend_Db_Adapter_Exception$/;"	c
+ZendX_Db_Statement_Firebird	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^class ZendX_Db_Statement_Firebird extends Zend_Db_Statement$/;"	c
+ZendX_Db_Statement_Firebird_Exception	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird/Exception.php	/^class ZendX_Db_Statement_Firebird_Exception extends Zend_Db_Statement_Exception$/;"	c
+ZendX_Exception	../../NetBeansProjects/library/ZendX/Exception.php	/^class ZendX_Exception extends Zend_Exception$/;"	c
+ZendX_JQuery	../../NetBeansProjects/library/ZendX/JQuery.php	/^class ZendX_JQuery$/;"	c
+ZendX_JQuery_Controller_Action_Helper_AutoComplete	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^class ZendX_JQuery_Controller_Action_Helper_AutoComplete$/;"	c
+ZendX_JQuery_Exception	../../NetBeansProjects/library/ZendX/JQuery/Exception.php	/^class ZendX_JQuery_Exception extends Zend_Exception { }/;"	c
+ZendX_JQuery_Form	../../NetBeansProjects/library/ZendX/JQuery/Form.php	/^class ZendX_JQuery_Form extends Zend_Form$/;"	c
+ZendX_JQuery_Form_Decorator_AccordionContainer	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/AccordionContainer.php	/^class ZendX_JQuery_Form_Decorator_AccordionContainer extends ZendX_JQuery_Form_Decorator_UiWidgetContainer$/;"	c
+ZendX_JQuery_Form_Decorator_AccordionPane	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/AccordionPane.php	/^class ZendX_JQuery_Form_Decorator_AccordionPane extends ZendX_JQuery_Form_Decorator_UiWidgetPane$/;"	c
+ZendX_JQuery_Form_Decorator_DialogContainer	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^class ZendX_JQuery_Form_Decorator_DialogContainer extends ZendX_JQuery_Form_Decorator_UiWidgetContainer$/;"	c
+ZendX_JQuery_Form_Decorator_TabContainer	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/TabContainer.php	/^class ZendX_JQuery_Form_Decorator_TabContainer extends ZendX_JQuery_Form_Decorator_UiWidgetContainer$/;"	c
+ZendX_JQuery_Form_Decorator_TabPane	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/TabPane.php	/^class ZendX_JQuery_Form_Decorator_TabPane extends ZendX_JQuery_Form_Decorator_UiWidgetPane$/;"	c
+ZendX_JQuery_Form_Decorator_UiWidgetContainer	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^abstract class ZendX_JQuery_Form_Decorator_UiWidgetContainer extends Zend_Form_Decorator_Abstract$/;"	c
+ZendX_JQuery_Form_Decorator_UiWidgetElement	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^class ZendX_JQuery_Form_Decorator_UiWidgetElement$/;"	c
+ZendX_JQuery_Form_Decorator_UiWidgetElementMarker	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElementMarker.php	/^interface ZendX_JQuery_Form_Decorator_UiWidgetElementMarker {$/;"	c
+ZendX_JQuery_Form_Decorator_UiWidgetElementMarker	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElementMarker.php	/^interface ZendX_JQuery_Form_Decorator_UiWidgetElementMarker {$/;"	i
+ZendX_JQuery_Form_Decorator_UiWidgetPane	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^abstract class ZendX_JQuery_Form_Decorator_UiWidgetPane extends Zend_Form_Decorator_Abstract$/;"	c
+ZendX_JQuery_Form_Element_AutoComplete	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/AutoComplete.php	/^class ZendX_JQuery_Form_Element_AutoComplete extends ZendX_JQuery_Form_Element_UiWidget$/;"	c
+ZendX_JQuery_Form_Element_ColorPicker	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/ColorPicker.php	/^class ZendX_JQuery_Form_Element_ColorPicker extends ZendX_JQuery_Form_Element_UiWidget$/;"	c
+ZendX_JQuery_Form_Element_DatePicker	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/DatePicker.php	/^class ZendX_JQuery_Form_Element_DatePicker extends ZendX_JQuery_Form_Element_UiWidget$/;"	c
+ZendX_JQuery_Form_Element_Slider	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/Slider.php	/^class ZendX_JQuery_Form_Element_Slider extends ZendX_JQuery_Form_Element_UiWidget$/;"	c
+ZendX_JQuery_Form_Element_Spinner	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/Spinner.php	/^class ZendX_JQuery_Form_Element_Spinner extends ZendX_JQuery_Form_Element_UiWidget$/;"	c
+ZendX_JQuery_Form_Element_UiWidget	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^class ZendX_JQuery_Form_Element_UiWidget extends Zend_Form_Element$/;"	c
+ZendX_JQuery_Form_Exception	../../NetBeansProjects/library/ZendX/JQuery/Form/Exception.php	/^class ZendX_JQuery_Form_Exception extends ZendX_JQuery_Exception$/;"	c
+ZendX_JQuery_View_Exception	../../NetBeansProjects/library/ZendX/JQuery/View/Exception.php	/^class ZendX_JQuery_View_Exception extends ZendX_JQuery_Exception { }/;"	c
+ZendX_JQuery_View_Helper_AccordionContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^class ZendX_JQuery_View_Helper_AccordionContainer extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_AccordionPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^class ZendX_JQuery_View_Helper_AccordionPane extends ZendX_JQuery_View_Helper_UiWidgetPane$/;"	c
+ZendX_JQuery_View_Helper_AjaxLink	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^class ZendX_JQuery_View_Helper_AjaxLink extends Zend_View_Helper_HtmlElement$/;"	c
+ZendX_JQuery_View_Helper_AutoComplete	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^class ZendX_JQuery_View_Helper_AutoComplete extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_ColorPicker	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^class ZendX_JQuery_View_Helper_ColorPicker extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_DatePicker	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^class ZendX_JQuery_View_Helper_DatePicker extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_DialogContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^class ZendX_JQuery_View_Helper_DialogContainer extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_JQuery	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^class ZendX_JQuery_View_Helper_JQuery extends Zend_View_Helper_Abstract$/;"	c
+ZendX_JQuery_View_Helper_JQuery_Container	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^class ZendX_JQuery_View_Helper_JQuery_Container$/;"	c
+ZendX_JQuery_View_Helper_Slider	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^class ZendX_JQuery_View_Helper_Slider extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_Spinner	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^class ZendX_JQuery_View_Helper_Spinner extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_TabContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^class ZendX_JQuery_View_Helper_TabContainer extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+ZendX_JQuery_View_Helper_TabPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^class ZendX_JQuery_View_Helper_TabPane extends ZendX_JQuery_View_Helper_UiWidgetPane$/;"	c
+ZendX_JQuery_View_Helper_UiWidget	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidget.php	/^abstract class ZendX_JQuery_View_Helper_UiWidget extends Zend_View_Helper_HtmlElement$/;"	c
+ZendX_JQuery_View_Helper_UiWidgetPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^abstract class ZendX_JQuery_View_Helper_UiWidgetPane extends ZendX_JQuery_View_Helper_UiWidget$/;"	c
+__call	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public function __call($method, $args)$/;"	f
+__construct	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function __construct($puid = null, $guid = null, $umask = null)$/;"	f
+__construct	../../NetBeansProjects/library/ZendX/JQuery/Form.php	/^    public function __construct($options = null)$/;"	f
+__construct	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function __construct($spec, $options = null)$/;"	f
+__construct	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public function __construct()$/;"	f
+__destruct	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function __destruct()$/;"	f
+__toString	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function __toString()$/;"	f
+_addPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^    protected function _addPane($id, $name, $content, array $options=array())$/;"	f
+_addPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^    protected function _addPane($id, $name, $content, array $options=array())$/;"	f
+_addPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    abstract protected function _addPane($id, $name, $content, array $options=array());$/;"	f
+_attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^            $this->_attribs = $attribs;$/;"	v
+_attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    protected $_attribs;$/;"	v
+_attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    protected $_attribs;$/;"	v
+_attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^            $this->_attribs = $attribs;$/;"	v
+_attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    protected $_attribs;$/;"	v
+_autoQuoteIdentifiers	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected $_autoQuoteIdentifiers = true;$/;"	v
+_beginTransaction	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _beginTransaction()$/;"	f
+_bindParam	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected function _bindParam($parameter, &$variable, $type = null, $length = null, $options = null)$/;"	f
+_callCallbackMethod	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    protected function _callCallbackMethod($methodName, array $argList = array(), $type = self::VOID_METHOD)$/;"	f
+_captureInfo	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    protected $_captureInfo = array();$/;"	v
+_captureLock	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_captureLock = false;$/;"	v
+_captureLock	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_captureLock = true;$/;"	v
+_captureLock	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_captureLock = false;$/;"	v
+_captureLock	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    protected $_captureLock = array();$/;"	v
+_cleanProcessContext	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _cleanProcessContext()$/;"	f
+_commit	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _commit()$/;"	f
+_connect	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _connect()$/;"	f
+_connection	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $this->_connection = @ibase_connect($/;"	v
+_container	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^        $this->_container = $registry[__CLASS__];$/;"	v
+_createIpcSegment	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _createIpcSegment()$/;"	f
+_createIpcSemaphore	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _createIpcSemaphore()$/;"	f
+_determineRequestHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^    protected function _determineRequestHandler($options, $hasParams)$/;"	f
+_elementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^                $this->_elementHtmlTemplate = '<h3><a href="#">%s<\/a><\/h3><div>%s<\/div>';$/;"	v
+_elementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^                $this->_elementHtmlTemplate = '<li class="ui-accordion-group"><a href="#" class="ui-accordion-header">%s<\/a><div class="ui-accordion-content">%s<\/div><\/li>';$/;"	v
+_elementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^        $this->_elementHtmlTemplate = $htmlTemplate;$/;"	v
+_elementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    protected $_elementHtmlTemplate = null;$/;"	v
+_enabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_enabled = false;$/;"	v
+_enabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_enabled = true;$/;"	v
+_enabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_enabled = false;$/;"	v
+_execute	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function _execute(array $params = null)$/;"	f
+_fetchMode	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^                $this->_fetchMode = $mode;$/;"	v
+_formatDbConnString	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _formatDbConnString($host, $port, $dbname)$/;"	f
+_getJQueryLibraryBaseCdnUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _getJQueryLibraryBaseCdnUri()$/;"	f
+_getJQueryLibraryPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _getJQueryLibraryPath()$/;"	f
+_getJQueryUiLibraryBaseCdnUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _getJQueryUiLibraryBaseCdnUri()$/;"	f
+_getJQueryUiLibraryPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _getJQueryUiLibraryPath()$/;"	f
+_guid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_guid = $guid;$/;"	v
+_guid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_guid = null;$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/AccordionContainer.php	/^    protected $_helper = "accordionContainer";$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/AccordionPane.php	/^    protected $_helper = "accordionPane";$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^    protected $_helper = "dialogContainer";$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/TabContainer.php	/^    protected $_helper = "tabContainer";$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/TabPane.php	/^    protected $_helper = "tabPane";$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    protected $_helper;$/;"	v
+_helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    protected $_helper;$/;"	v
+_internalIpcData	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_internalIpcData = $data;$/;"	v
+_internalIpcData	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_internalIpcData = array();$/;"	v
+_internalIpcKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_internalIpcKey = @shmop_open($shmKey, 'c', 0644, 10240);$/;"	v
+_internalIpcKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_internalIpcKey;$/;"	v
+_internalSemKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_internalSemKey = @shmop_open($semKey, 'c', 0644, 10);$/;"	v
+_internalSemKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_internalSemKey;$/;"	v
+_ipcIsOkay	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_ipcIsOkay = false;$/;"	v
+_ipcIsOkay	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_ipcIsOkay = true;$/;"	v
+_ipcIsOkay	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_ipcIsOkay;$/;"	v
+_ipcSegFile	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_ipcSegFile = realpath(sys_get_temp_dir()) . '\/' . rand() . $this->_name . '.shm';$/;"	v
+_ipcSegFile	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_ipcSegFile;$/;"	v
+_ipcSemFile	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_ipcSemFile = realpath(sys_get_temp_dir()) . '\/' . rand() . $this->_name . '.sem';$/;"	v
+_ipcSemFile	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_ipcSemFile;$/;"	v
+_isChild	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_isChild   = false;$/;"	v
+_isChild	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_isChild = true;$/;"	v
+_isChild	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_isChild = false;$/;"	v
+_isRunning	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_isRunning = true;$/;"	v
+_isRunning	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_isRunning = false;$/;"	v
+_isRunning	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_isRunning = false;$/;"	v
+_isXhtml	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_isXhtml = $this->view->doctype()->isXhtml();$/;"	v
+_isXhtml	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_isXhtml = false;$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^                    $this->_jQueryParams = $attribs['jQueryParams'];$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^                    $this->_jQueryParams = array_merge($this->_jQueryParams, $options['jQueryParams']);$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^            $this->_jQueryParams = array();$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    protected $_jQueryParams;$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $this->_jQueryParams = array_merge($this->_jQueryParams, $params);$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    protected $_jQueryParams = array();$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^                $this->_jQueryParams = $attribs['jQueryParams'];$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^                $this->_jQueryParams = array_merge($this->_jQueryParams, $options['jQueryParams']);$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^            $this->_jQueryParams = array();$/;"	v
+_jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    protected $_jQueryParams;$/;"	v
+_javascriptSources	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_javascriptSources = array();$/;"	v
+_javascriptSources	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_javascriptSources = array();$/;"	v
+_javascriptStatements	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_javascriptStatements = array();$/;"	v
+_javascriptStatements	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_javascriptStatements = array();$/;"	v
+_jquery	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^            $this->_jquery = $this->_view->jQuery();$/;"	v
+_jquery	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^    protected $_jquery;$/;"	v
+_jqueryLibraryPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_jqueryLibraryPath = (string) $path;$/;"	v
+_jqueryLibraryPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_jqueryLibraryPath = null;$/;"	v
+_keys	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_keys = array();$/;"	v
+_keys	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_keys = array();$/;"	v
+_loadSslCdnPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_loadSslCdnPath = $flag;$/;"	v
+_loadSslCdnPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_loadSslCdnPath = false;$/;"	v
+_meta	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_meta = null;$/;"	v
+_name	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_name = md5(uniqid(rand()));$/;"	v
+_name	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_name;$/;"	v
+_numericDataTypes	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected $_numericDataTypes = array($/;"	v
+_onLoadActions	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_onLoadActions = array();$/;"	v
+_onLoadActions	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_onLoadActions = array();$/;"	v
+_panes	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    protected $_panes = array();$/;"	v
+_parseOptions	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^    protected function _parseOptions(array $options)$/;"	f
+_pid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $this->_pid       = $pid;$/;"	v
+_pid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_pid       = null;$/;"	v
+_pid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_pid = null;$/;"	v
+_prepare	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function _prepare($sql)$/;"	f
+_prepareAttributes	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidget.php	/^	protected function _prepareAttributes($id, $value, $attribs)$/;"	f
+_puid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $this->_puid = $puid;$/;"	v
+_puid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private $_puid = null;$/;"	v
+_quote	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _quote($value)$/;"	f
+_readFromIpcSegment	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _readFromIpcSegment()$/;"	f
+_renderExtras	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _renderExtras()$/;"	f
+_renderMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_renderMode = $mask;$/;"	v
+_renderMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_renderMode = ZendX_JQuery::RENDER_ALL;$/;"	v
+_renderScriptTags	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _renderScriptTags()$/;"	f
+_renderStylesheets	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected function _renderStylesheets()$/;"	f
+_rollBack	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected function _rollBack()$/;"	f
+_run	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    abstract protected function _run();$/;"	f
+_sendSigUsr1	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _sendSigUsr1()$/;"	f
+_setAlive	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    protected function _setAlive()$/;"	f
+_sigHandler	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _sigHandler($signo)$/;"	f
+_stmtColumnCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtColumnCount = $coln;$/;"	v
+_stmtColumnCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^        $this->_stmtColumnCount = 0;$/;"	v
+_stmtColumnCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_stmtColumnCount = 0;$/;"	v
+_stmtPrepared	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtPrepared = @ibase_prepare($connection, $sql);$/;"	v
+_stmtPrepared	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtPrepared = @ibase_prepare($connection, $trans, $sql);$/;"	v
+_stmtPrepared	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtPrepared = null;$/;"	v
+_stmtPrepared	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_stmtPrepared = null;$/;"	v
+_stmtResult	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtResult = null;$/;"	v
+_stmtResult	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^        $this->_stmtResult = $retval;$/;"	v
+_stmtResult	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_stmtResult = null;$/;"	v
+_stmtRowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtRowCount = 0;$/;"	v
+_stmtRowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtRowCount = ibase_affected_rows($this->_adapter->getConnection());$/;"	v
+_stmtRowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_stmtRowCount = ibase_affected_rows($trans);$/;"	v
+_stmtRowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^        $this->_stmtRowCount = 0;$/;"	v
+_stmtRowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_stmtRowCount = 0;$/;"	v
+_stylesheets	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_stylesheets = array();$/;"	v
+_tabs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^    protected $_tabs = array();$/;"	v
+_title	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    protected $_title;$/;"	v
+_transResource	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $this->_transResource = ibase_trans(IBASE_DEFAULT, $this->_connection);$/;"	v
+_transResource	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $this->_transResource = null;$/;"	v
+_transResource	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    protected $_transResource = null;$/;"	v
+_uiEnabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_uiEnabled = false;$/;"	v
+_uiEnabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_uiEnabled = true;$/;"	v
+_uiEnabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_uiEnabled = false;$/;"	v
+_uiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    	$this->_uiPath = (string) $path;$/;"	v
+_uiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_uiPath = null;$/;"	v
+_uiVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_uiVersion = $version;$/;"	v
+_uiVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_uiVersion = ZendX_JQuery::DEFAULT_UI_VERSION;$/;"	v
+_values	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $this->_values = array_fill(0, count($this->_keys), null);$/;"	v
+_values	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected $_values = array();$/;"	v
+_version	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->_version = $version;$/;"	v
+_version	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    protected $_version = ZendX_JQuery::DEFAULT_JQUERY_VERSION;$/;"	v
+_view	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^            $this->_view = $this->getBootstrap()->view;$/;"	v
+_view	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^    protected $_view;$/;"	v
+_waitForIpcSemaphore	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _waitForIpcSemaphore()$/;"	f
+_writeToIpcSegment	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _writeToIpcSegment()$/;"	f
+_writeVariable	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    private function _writeVariable($name, $value)$/;"	f
+accordionContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    public function accordionContainer($id=null, array $params=array(), array $attribs=array())$/;"	f
+accordionPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^    public function accordionPane($id=null, $content='', array $options=array())$/;"	f
+addJavascript	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function addJavascript($js)$/;"	f
+addJavascriptFile	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function addJavascriptFile($path)$/;"	f
+addOnLoad	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function addOnLoad($callback)$/;"	f
+addPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    public function addPane($id, $name, $content, array $options=array())$/;"	f
+addPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^    public function addPane($id, $name, $content, array $options=array())$/;"	f
+addStylesheet	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function addStylesheet($path)$/;"	f
+ajaxLink	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^    public function ajaxLink($label, $url, $options=null, $params=null)$/;"	f
+alias	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function quoteTableAs($ident, $alias = null, $auto=false)$/;"	v
+allows	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^     * chaining the {@link addPane()} function allows to register new elements$/;"	f
+allows	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^     * This function allows for a gradual refactoring of the jQuery code$/;"	f
+argList	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    protected function _callCallbackMethod($methodName, array $argList = array(), $type = self::VOID_METHOD)$/;"	v
+as	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^ * ZendX_Console_Process_Unix allows you to spawn a class as a separated process$/;"	c
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $attribs     = $this->getOptions();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^            $attribs = $this->getElement()->getAttribs();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $attribs     = $this->getOptions();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $attribs   = $this->getElementAttribs();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^            $attribs = $this->getElement()->getAttribs();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^        $attribs     = array_merge($this->getAttribs(), $this->getOptions());$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $attribs = $options['attribs'];$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $attribs = array();$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^        $attribs = $this->_prepareAttributes($id, $value, $attribs);$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^	    $attribs = $this->_prepareAttributes($id, $value, $attribs);$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $attribs = $this->_prepareAttributes($id, $value, $attribs);$/;"	v
+attribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^	    $attribs = $this->_prepareAttributes($id, $value, $attribs);$/;"	v
+autoComplete	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^    public function autoComplete($id, $value = null, array $params = array(), array $attribs = array())$/;"	f
+baseUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $baseUri = $this->_getJQueryLibraryBaseCdnUri();$/;"	v
+baseUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $baseUri = ZendX_JQuery::CDN_BASEUI_GOOGLE;$/;"	v
+baseUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $baseUri = ZendX_JQuery::CDN_BASEUI_GOOGLE_SSL;$/;"	v
+baseUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $baseUri = ZendX_JQuery::CDN_BASE_GOOGLE;$/;"	v
+baseUri	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $baseUri = ZendX_JQuery::CDN_BASE_GOOGLE_SSL;$/;"	v
+callbackCompleteJs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $callbackCompleteJs = array();$/;"	v
+callbacks	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $callbacks = array('beforeSend' => null, 'complete' => null);$/;"	v
+can	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^     * a jQuery Date Picker readable format. This function can be potentially buggy$/;"	f
+captureEnd	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    public function captureEnd($id)$/;"	f
+captureStart	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    public function captureStart($id, $name, array $options=array())$/;"	f
+chr	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^                        $chr = $jql;$/;"	v
+chr	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^            $chr = $format[$i];$/;"	v
+chr	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^            if($chr == '"' || $chr == "'") {$/;"	v
+clearJavascript	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function clearJavascript()$/;"	f
+clearJavascriptFiles	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function clearJavascriptFiles()$/;"	f
+clearOnLoadActions	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function clearOnLoadActions()$/;"	f
+clickClass	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^                $clickClass = sprintf("ajaxLink%d", ZendX_JQuery_View_Helper_AjaxLink::$currentLinkCallbackId);$/;"	v
+close	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function close()$/;"	f
+closeConnection	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function closeConnection()$/;"	f
+closeCursor	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function closeCursor()$/;"	f
+closingBracket	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^                $closingBracket = ' \/>';$/;"	v
+closingBracket	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^                $closingBracket = ($this->view->doctype()->isXhtml()) ? ' \/>' : '>';$/;"	v
+col_info	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                $col_info = ibase_field_info($this->_stmtResult, $i);$/;"	v
+coln	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $coln = ibase_num_fields($this->_stmtResult);$/;"	v
+colorPicker	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^    public function colorPicker($id, $value='', array $params=array(), array $attribs=array())$/;"	f
+columnCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function columnCount()$/;"	f
+column_id	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $column_id       = 6;$/;"	v
+column_name	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $column_name     = 2;$/;"	v
+connection	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^        $connection = $this->_adapter->getConnection();$/;"	v
+constraint_type	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $constraint_type = 10;$/;"	v
+container	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^            $container = new ZendX_JQuery_View_Helper_JQuery_Container();$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^    public function accordionPane($id=null, $content='', array $options=array())$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $content = '';$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $content = $list.$html;$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^        $content = "";$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^    public function tabPane($id=null, $content='', array $options=array())$/;"	v
+content	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^        $content = ob_get_clean();$/;"	v
+count	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $count = intval($count);$/;"	v
+currentLinkCallbackId	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^    private static $currentLinkCallbackId = 1;$/;"	v
+cursor	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function fetch($style = null, $cursor = null, $offset = null)$/;"	v
+data	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $data = @unserialize($serializedIpcData);$/;"	v
+data	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data = $this->fetchCol('SELECT RDB$RELATION_NAME FROM RDB$RELATIONS WHERE RDB$SYSTEM_FLAG = 0');$/;"	v
+data	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^        $data = (array) $data;$/;"	v
+data	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $data               = ob_get_clean();$/;"	v
+dataType	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $dataType = trim($row[$data_type]);$/;"	v
+dataType	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            if (is_array($newType) && $dataType == 'INT64')$/;"	v
+data_default	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data_default    = 4;$/;"	v
+data_length	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data_length     = 7;$/;"	v
+data_precision	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data_precision  = 9;$/;"	v
+data_scale	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data_scale      = 8;$/;"	v
+data_type	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $data_type       = 3;$/;"	v
+dateFormat	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $dateFormat = array($/;"	v
+datePicker	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^    public function datePicker($id, $value = null, array $params = array(), array $attribs = array())$/;"	f
+dbname	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $dbname = ':' . $dbname;$/;"	v
+decorators	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^        $decorators = $this->getDecorators();$/;"	v
+decorators	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^        $decorators = parent::getDecorators();$/;"	v
+desc	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $desc = array();$/;"	v
+describeTable	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function describeTable($tableName, $schemaName = null)$/;"	f
+dialogContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^	public function dialogContainer($id, $content, $params=array(), $attribs=array())$/;"	f
+disable	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function disable()$/;"	f
+disableNoConflictMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public static function disableNoConflictMode()$/;"	f
+element	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $element = $this->getElement();$/;"	v
+element	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^        $element = $this->getElement();$/;"	v
+elementContent	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $elementContent = $view->$helper($name, $value, $jQueryParams, $attribs);$/;"	v
+enable	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function enable()$/;"	f
+enableForm	../../NetBeansProjects/library/ZendX/JQuery.php	/^    public static function enableForm(Zend_Form $form)$/;"	f
+enableNoConflictMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public static function enableNoConflictMode()$/;"	f
+enableView	../../NetBeansProjects/library/ZendX/JQuery.php	/^    public static function enableView(Zend_View_Interface $view)$/;"	f
+encodeJson	../../NetBeansProjects/library/ZendX/JQuery.php	/^    public static function encodeJson($value)$/;"	f
+errorCode	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function errorCode()$/;"	f
+errorInfo	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function errorInfo()$/;"	f
+fetch	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function fetch($style = null, $cursor = null, $offset = null)$/;"	f
+fieldMaps	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $fieldMaps = array($/;"	v
+for	../../NetBeansProjects/library/ZendX/Console/Exception.php	/^ * Exception class for ZendX_Console$/;"	c
+for	../../NetBeansProjects/library/ZendX/Console/Process/Exception.php	/^ * Exception class for ZendX_Console_Process$/;"	c
+for	../../NetBeansProjects/library/ZendX/Exception.php	/^ * Exception class for ZendX$/;"	c
+format	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^            $format = Zend_Locale_Format::getDateFormat($locale);$/;"	v
+foundUiWidgetElementMarker	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^                    $foundUiWidgetElementMarker = true;$/;"	v
+foundUiWidgetElementMarker	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^            $foundUiWidgetElementMarker = false;$/;"	v
+frag_name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^                $frag_name = sprintf('%s-frag-%d', $attribs['id'], $fragment_counter++);$/;"	v
+fragment_counter	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $fragment_counter = 1;$/;"	v
+getAccordionTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    protected function getAccordionTemplate($attribs, $html)$/;"	f
+getAttribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    public function getAttribs()$/;"	f
+getAttribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    public function getAttribs()$/;"	f
+getCdnVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getCdnVersion()$/;"	f
+getChangeCallback	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    protected function getChangeCallback($jqh, $sliderHiddenId, $elementId, $handlerNum)$/;"	f
+getDecorators	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function getDecorators()$/;"	f
+getElementAttribs	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function getElementAttribs()$/;"	f
+getElementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    protected function getElementHtmlTemplate()$/;"	f
+getHandleCount	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    protected function getHandleCount($params)$/;"	f
+getHandleValue	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    protected function getHandleValue($handleNum, $params)$/;"	f
+getHelper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    public function getHelper()$/;"	f
+getHelper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    public function getHelper()$/;"	f
+getJQueryHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public static function getJQueryHandler()$/;"	f
+getJQueryParam	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function getJQueryParam($key)$/;"	f
+getJQueryParam	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function getJQueryParam($key)$/;"	f
+getJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    public function getJQueryParams()$/;"	f
+getJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function getJQueryParams()$/;"	f
+getJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    public function getJQueryParams()$/;"	f
+getJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function getJQueryParams()$/;"	f
+getJavascript	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getJavascript()$/;"	f
+getJavascriptFiles	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getJavascriptFiles()$/;"	f
+getJquery	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^    public function getJquery()$/;"	f
+getLastAlive	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function getLastAlive()$/;"	f
+getLocalPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getLocalPath()$/;"	f
+getNoConflictMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public static function getNoConflictMode()$/;"	f
+getOnLoadActions	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getOnLoadActions()$/;"	f
+getPid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function getPid()$/;"	f
+getRenderMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getRenderMode()$/;"	f
+getServerVersion	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function getServerVersion()$/;"	f
+getStylesheets	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getStylesheets()$/;"	f
+getTransaction	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function getTransaction()$/;"	f
+getUiCdnVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getUiCdnVersion()$/;"	f
+getUiLocalPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getUiLocalPath()$/;"	f
+getUiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getUiPath()$/;"	f
+getUiVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getUiVersion()$/;"	f
+getVariable	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function getVariable($name)$/;"	f
+getVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function getVersion()$/;"	f
+guid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function __construct($puid = null, $guid = null, $umask = null)$/;"	v
+handleCount	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $handleCount = $this->getHandleCount($params);$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $helper      = $this->getHelper();$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $helper      = $this->getHelper();$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $helper    = $this->getHelper();$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public $helper;$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^        $helper = $this->getHelper();$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/AutoComplete.php	/^    public $helper = "autoComplete";$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/ColorPicker.php	/^    public $helper = "colorPicker";$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/DatePicker.php	/^    public $helper = "datePicker";$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/Slider.php	/^    public $helper = "slider";$/;"	v
+helper	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/Spinner.php	/^    public $helper = "spinner";$/;"	v
+hidden	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $hidden = "";$/;"	v
+hiddenAttribs	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^                $hiddenAttribs = array('type' => 'hidden', 'id' => $sliderHiddenId, 'name' => $sliderHiddenId, 'value' => $startValue);$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^            $html = $this->getAccordionTemplate($attribs, $html);$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^            $html = '<div'$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^            $html = '<ul'$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^        $html = "";$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $html = '<a'$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^        $html = '<div'$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $html  = $this->_renderStylesheets() . PHP_EOL$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $html = '<script type="text\/javascript">' . PHP_EOL$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $html = '<div' . $this->_htmlAttribs($attribs) . '>';$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $html = '';$/;"	v
+html	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^        $html = '<div'$/;"	v
+i	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            foreach ($this->_values as $i => &$f) {$/;"	v
+i	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $i = 0;$/;"	v
+id	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $id          = $element->getId() . '-container';$/;"	v
+id	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $id          = $element->getId() . '-container';$/;"	v
+id	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $id = $element->getId();$/;"	v
+id	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^            $id = $jQueryParams['containerId']."-container";$/;"	v
+identity	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^                $identity = false;$/;"	v
+init	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^    public function init()$/;"	f
+initializeStartingValues	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    protected function initializeStartingValues($value, $params)$/;"	f
+inline	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $inline = true;$/;"	v
+inline	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $inline = false;$/;"	v
+is	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^                    "Default decorator for this marker interface is the 'ZendX_JQuery_Form_Decorator_UiWidgetElement'. ".$/;"	c
+is	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^                    "Default decorator for this marker interface is the 'ZendX_JQuery_Form_Decorator_UiWidgetElement'. ".$/;"	i
+isConnected	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function isConnected()$/;"	f
+isEnabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function isEnabled()$/;"	f
+isRunning	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function isRunning()$/;"	f
+isText	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^                $isText = !$isText;$/;"	v
+isText	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $isText = false;$/;"	v
+j	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^                $scriptTags .= '<script type="text\/javascript">var $j = jQuery.noConflict();<\/script>'.PHP_EOL;$/;"	v
+jQuery	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public function jQuery()$/;"	f
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $jQueryParams = $this->getJQueryParams();$/;"	v
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $jQueryParams = $this->getJQueryParams();$/;"	v
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $jQueryParams = $this->getJQueryParams();$/;"	v
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^        $jQueryParams = $this->getJQueryParams();$/;"	v
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^        $this->jQueryParams = array_merge($this->jQueryParams, $params);$/;"	v
+jQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public $jQueryParams = array();$/;"	v
+javascript	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $javascript = implode("\\n    ", $this->getJavascript());$/;"	v
+javascript	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $javascript = '';$/;"	v
+javascriptCaptureEnd	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function javascriptCaptureEnd()$/;"	f
+javascriptCaptureStart	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function javascriptCaptureStart()$/;"	f
+jqHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $jqHandler = (ZendX_JQuery_View_Helper_JQuery::getNoConflictMode()==true)?'$j':'$';$/;"	v
+jqh	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $jqh = ZendX_JQuery_View_Helper_JQuery::getJQueryHandler();$/;"	v
+jquery	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $jquery = $this->view->jQuery();$/;"	v
+jquery	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidget.php	/^        $this->jquery = $this->view->jQuery();$/;"	v
+jquery	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidget.php	/^    protected $jquery;$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^            $js = sprintf('%s("#%s").accordion(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $js = array();$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $js = implode($js);$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^        $js = sprintf('%s("#%s").autocomplete(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^        $js = sprintf('%s("#%s").colorpicker(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $js = sprintf('%s("#%s").datepicker(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^        $js = sprintf('%s("#%s").dialog(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $js = sprintf('%s("#%s").slider(%s);', $jqh, $attribs['id'], $params);$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^        $js = sprintf('%s("#%s").spinner(%s);',$/;"	v
+js	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^        $js = sprintf('%s("#%s").tabs(%s);',$/;"	v
+k	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^        foreach($data AS $k => $v) {$/;"	v
+k	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            foreach($this->_tabs[$id] AS $k => $v) {$/;"	v
+keepLayouts	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^    public function prepareAutoCompletion($data, $keepLayouts = false)$/;"	v
+key	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^        foreach ($options as $key => $value) {$/;"	v
+key	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        foreach ($result as $key => $row) {$/;"	v
+key	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $key = (string) $key;$/;"	v
+key	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^        $key = (string) $key;$/;"	v
+lastInsertId	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function lastInsertId($tableName = null, $primaryKey = null)$/;"	f
+lastSequenceId	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function lastSequenceId($sequenceName)$/;"	f
+last_error	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $last_error = ibase_errmsg();$/;"	v
+limit	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function limit($sql, $count, $offset = 0)$/;"	f
+list	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $list = '<ul class="ui-tabs-nav">'.PHP_EOL;$/;"	v
+listTables	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function listTables()$/;"	f
+loadDefaultDecorators	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function loadDefaultDecorators()$/;"	f
+locale	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^            $locale = Zend_Registry::get('Zend_Locale');$/;"	v
+matches	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $matches = null;$/;"	v
+method	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^                    $method = $this->_internalIpcData['_callMethod'];$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $name      = $element->getFullyQualifiedName();$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^            $name = $options['title'];$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^            $name = $options['title'];$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^        $name = '';$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $name = $options['title'];$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^            $name = $options['title'];$/;"	v
+name	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^        $name = '';$/;"	v
+naming	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^     * Proxies to getUiPath() for consistency in function naming.$/;"	f
+newFormat	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $newFormat = "";$/;"	v
+newType	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^                $newType = $newType[$row[$sub_type]];$/;"	v
+newType	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $newType = $fieldMaps[$dataType];$/;"	v
+nextRowset	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function nextRowset()$/;"	f
+nextSequenceId	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function nextSequenceId($sequenceName)$/;"	f
+noConflictMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    private static $noConflictMode = false;$/;"	v
+nullable	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $nullable        = 5;$/;"	v
+of	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^     *  'class'			HTML Attribute class of the Anchor$/;"	c
+offset	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $offset = intval($offset);$/;"	v
+offset	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function limit($sql, $count, $offset = 0)$/;"	v
+okay	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $okay = shmop_read($this->_internalSemKey, 0, 1);$/;"	v
+onLoad	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^                $onLoad = sprintf("%s('a#%s').click(function() { %s });", $jqHandler, $attribs['id'], $js);$/;"	v
+onLoad	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^                $onLoad = sprintf("%s('a.%s').click(function() { %s });", $jqHandler, $clickClass, $js);$/;"	v
+onLoadActions	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $onLoadActions = array();$/;"	v
+onLoadCaptureEnd	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function onLoadCaptureEnd()$/;"	f
+onLoadCaptureStart	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function onLoadCaptureStart()$/;"	f
+only	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^     * this function only resolves the default format from Zend Locale to$/;"	f
+options	../../NetBeansProjects/library/ZendX/Application/Resource/Jquery.php	/^        $options = array_merge($options, array('cdn_ssl' => false));$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^            $options = $this->getOptions();$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public $options = array();$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function __construct($spec, $options = null)$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    public function addPane($id, $name, $content, array $options=array())$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionPane.php	/^    protected function _addPane($id, $name, $content, array $options=array())$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^     * @example $options = array('beforeSend' => 'hideSlow', 'complete' => 'show');$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^    public function ajaxLink($label, $url, $options=null, $params=null)$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^    public function addPane($id, $name, $content, array $options=array())$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^    protected function _addPane($id, $name, $content, array $options=array())$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    abstract protected function _addPane($id, $name, $content, array $options=array());$/;"	v
+options	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidgetPane.php	/^    public function captureStart($id, $name, array $options=array())$/;"	v
+opts	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^                $opts = $v['options'];$/;"	v
+output	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^        $output = "";$/;"	v
+owner	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $owner           = 1;$/;"	v
+params	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^                    $params = $this->_internalIpcData['_callInput'];$/;"	v
+params	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $params = $this->_bindParam;$/;"	v
+params	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function _execute(array $params = null)$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^                $params = "{}";$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^                $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    public function accordionContainer($id=null, array $params=array(), array $attribs=array())$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $params = '{}';$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^        $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^	        $params = "{}";$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^            $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^        $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^	public function dialogContainer($id, $content, $params=array(), $attribs=array())$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^            $params = "{}";$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DialogContainer.php	/^            $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^            $params = '{}';$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^            $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $params = $this->initializeStartingValues($value, $params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^	        $params = '{}';$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^	        $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $params = '{}';$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^            $params = ZendX_JQuery::encodeJson($params);$/;"	v
+params	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^    public function tabContainer($id=null, $params=array(), $attribs=array())$/;"	v
+path	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $path = (string) $path;$/;"	v
+pid	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $pid = @pcntl_fork();$/;"	v
+pingTime	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $pingTime = $this->getVariable('_pingTime');$/;"	v
+port	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $port = '\/' . (integer) $port;$/;"	v
+position	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $position        = 11;$/;"	v
+prepare	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function prepare($sql)$/;"	f
+prepareAutoCompletion	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^    public function prepareAutoCompletion($data, $keepLayouts = false)$/;"	f
+primary	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^                $primary = true;$/;"	v
+primaryKey	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function lastInsertId($tableName = null, $primaryKey = null)$/;"	v
+primaryPosition	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^                $primaryPosition = $row[$position];$/;"	v
+quoteTableAs	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function quoteTableAs($ident, $alias = null, $auto=false)$/;"	f
+r	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $r = @ibase_free_query($this->_stmtPrepared);$/;"	v
+refs	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $refs = array();$/;"	v
+registry	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^        $registry = Zend_Registry::getInstance();$/;"	v
+render	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^    public function render($content)$/;"	f
+render	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^    public function render($content)$/;"	f
+render	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function render($content)$/;"	f
+render	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^    public function render($content)$/;"	f
+replaced	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^                        $replaced = true;$/;"	v
+replaced	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^            $replaced = false;$/;"	v
+requestHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $requestHandler = "POST";$/;"	v
+requestHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $requestHandler = "GET";$/;"	v
+requestHandler	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $requestHandler = $this->_determineRequestHandler($options, (count($params)>0)?true:false);$/;"	v
+resolveZendLocaleToDatePickerFormat	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^    public static function resolveZendLocaleToDatePickerFormat($format=null)$/;"	f
+result	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $result = $stmt->fetchAll(Zend_Db::FETCH_NUM);$/;"	v
+retval	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $retval = @call_user_func_array($/;"	v
+retval	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $retval = @ibase_execute($this->_stmtPrepared);$/;"	v
+row	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                    $row = $this->_fetchBound($row);$/;"	v
+row	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                    $row = array_merge($row, array_values($row));$/;"	v
+row	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                $row = ibase_fetch_assoc($this->_stmtResult, IBASE_TEXT);$/;"	v
+row	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                $row = ibase_fetch_object($this->_stmtResult, IBASE_TEXT);$/;"	v
+row	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^                $row = ibase_fetch_row($this->_stmtResult, IBASE_TEXT);$/;"	v
+rowCount	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    public function rowCount()$/;"	f
+schemaName	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function describeTable($tableName, $schemaName = null)$/;"	v
+scriptTags	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $scriptTags = '';$/;"	v
+semKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $semKey = ftok($this->_ipcSemFile, 't');$/;"	v
+separator	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $separator = $this->getSeparator();$/;"	v
+sequenceName	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $sequenceName = $tableName;$/;"	v
+serializedIpcData	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $serializedIpcData = serialize($this->_internalIpcData);$/;"	v
+serializedIpcData	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $serializedIpcData = shmop_read($this->_internalIpcKey,$/;"	v
+server_info	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $server_info  = ibase_server_info($service, IBASE_SVC_SERVER_VERSION);$/;"	v
+service	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $service = ibase_service_attach($this->_formatDbConnString($this->_config['host'], $this->_config['port'], ''), $this->_config['username'], $this->_config['password']);$/;"	v
+setCdnSsl	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setCdnSsl($flag)$/;"	f
+setCdnVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setCdnVersion($version = null)$/;"	f
+setElementHtmlTemplate	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AccordionContainer.php	/^    public function setElementHtmlTemplate($htmlTemplate)$/;"	f
+setFetchMode	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function setFetchMode($mode)$/;"	f
+setJQueryParam	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function setJQueryParam($key, $value)$/;"	f
+setJQueryParam	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function setJQueryParam($key, $value)$/;"	f
+setJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^    public function setJQueryParams(array $params)$/;"	f
+setJQueryParams	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function setJQueryParams($params)$/;"	f
+setLocalPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setLocalPath($path)$/;"	f
+setRenderMode	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setRenderMode($mask)$/;"	f
+setUiCdnVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setUiCdnVersion($version="1.5.2")$/;"	f
+setUiLocalPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setUiLocalPath($path)$/;"	f
+setUiVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setUiVersion($version)$/;"	f
+setVariable	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function setVariable($name, $value)$/;"	f
+setVersion	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setVersion($version)$/;"	f
+setView	../../NetBeansProjects/library/ZendX/JQuery/Form.php	/^    public function setView(Zend_View_Interface $view = null)$/;"	f
+setView	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function setView(Zend_View_Interface $view = null)$/;"	f
+setView	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public function setView(Zend_View_Interface $view)$/;"	f
+setView	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function setView(Zend_View_Interface $view)$/;"	f
+setView	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/UiWidget.php	/^    public function setView(Zend_View_Interface $view)$/;"	f
+shmBytesWritten	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $shmBytesWritten = shmop_write($this->_internalIpcKey,$/;"	v
+shmKey	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $shmKey = ftok($this->_ipcSegFile, 't');$/;"	v
+slider	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    public function slider($id, $value = null, array $params = array(), array $attribs = array())$/;"	f
+sliderHiddenId	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^                    $sliderHiddenId = $attribs['id']."-".$i;$/;"	v
+sliderHiddenId	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^                    $sliderHiddenId = $attribs['id'];$/;"	v
+sliderUpdateFn	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^            $sliderUpdateFn = 'function(e, ui) {'.PHP_EOL;$/;"	v
+source	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $source = $baseUri .$/;"	v
+source	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $source = $this->_getJQueryLibraryPath();$/;"	v
+source	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $source = $this->_jqueryLibraryPath;$/;"	v
+spinner	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^	public function spinner($id, $value="", array $params=array(), array $attribs=array())$/;"	f
+sql	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $sql = substr_replace($sql, "select first $count skip $offset ", stripos($sql, 'select'), 6);$/;"	v
+sql	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $sql = 'SELECT GEN_ID('.$this->quoteIdentifier($sequenceName).', 0) FROM RDB$DATABASE';$/;"	v
+sql	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $sql = 'SELECT GEN_ID('.$this->quoteIdentifier($sequenceName).', 1) FROM RDB$DATABASE';$/;"	v
+sql	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $sql = 'select$/;"	v
+start	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function start()$/;"	f
+startValue	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^                $startValue = $this->getHandleValue($i, $params);$/;"	v
+status	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $status = 0;$/;"	v
+stmt	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $stmt = $this->query($sql);$/;"	v
+stmt	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $stmt = new ZendX_Db_Statement_Firebird($this, $sql);$/;"	v
+stop	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^    public function stop()$/;"	f
+style	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^            $style = $this->_fetchMode;$/;"	v
+style	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $style = "";$/;"	v
+sub_type	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $sub_type        = 12;$/;"	v
+success	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^            $success = pcntl_wifexited($status);$/;"	v
+success	../../NetBeansProjects/library/ZendX/Console/Process/Unix.php	/^        $success = false;$/;"	v
+supportsParameters	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^    public function supportsParameters($type)$/;"	f
+tabContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabContainer.php	/^    public function tabContainer($id=null, $params=array(), $attribs=array())$/;"	f
+tabPane	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/TabPane.php	/^    public function tabPane($id=null, $content='', array $options=array())$/;"	f
+table_name	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $table_name      = 0;$/;"	v
+that	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^	 * Internal function that constructs the include path of the jQuery library.$/;"	f
+type	../../NetBeansProjects/library/ZendX/Db/Statement/Firebird.php	/^    protected function _bindParam($parameter, &$variable, $type = null, $length = null, $options = null)$/;"	v
+uiDisable	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function uiDisable()$/;"	f
+uiEnable	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function uiEnable()$/;"	f
+uiIsEnabled	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function uiIsEnabled()$/;"	f
+uiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^                $uiPath = $this->_getJQueryUiLibraryPath();$/;"	v
+uiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $uiPath = $baseUri.$/;"	v
+uiPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^            $uiPath = $this->getUiPath();$/;"	v
+updateContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^            $updateContainer = $options['update'];$/;"	v
+updateContainer	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        $updateContainer = false;$/;"	v
+useCdn	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function useCdn()$/;"	f
+useLocalPath	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function useLocalPath()$/;"	f
+useUiCdn	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function useUiCdn()$/;"	f
+useUiLocal	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public function useUiLocal()$/;"	f
+v	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^            $v = trim($v);$/;"	v
+validateData	../../NetBeansProjects/library/ZendX/JQuery/Controller/Action/Helper/AutoComplete.php	/^    public function validateData($data)$/;"	f
+value	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $value = $this->fetchOne($sql);$/;"	v
+value	../../NetBeansProjects/library/ZendX/Db/Adapter/Firebird.php	/^        $value = str_replace("'", "''", $value);$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $value     = $this->getValue($element);$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^        \/\/ class value is an array because the jQuery CSS selector$/;"	c
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AutoComplete.php	/^    public function autoComplete($id, $value = null, array $params = array(), array $attribs = array())$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/ColorPicker.php	/^    public function colorPicker($id, $value='', array $params=array(), array $attribs=array())$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^    public function datePicker($id, $value = null, array $params = array(), array $attribs = array())$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^    public function slider($id, $value = null, array $params = array(), array $attribs = array())$/;"	v
+value	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Spinner.php	/^	public function spinner($id, $value="", array $params=array(), array $attribs=array())$/;"	v
+values	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^            $values = $params['values'];$/;"	v
+values	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/Slider.php	/^        $values = array();$/;"	v
+variable	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/AjaxLink.php	/^     * subcontainer because of this single private class variable seems too much overhead.$/;"	c
+view	../../NetBeansProjects/library/ZendX/JQuery/Form.php	/^    public function setView(Zend_View_Interface $view = null)$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/DialogContainer.php	/^        $view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetContainer.php	/^        $view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetElement.php	/^        $view = $element->getView();$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/Form/Decorator/UiWidgetPane.php	/^        $view    = $element->getView();$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/Form/Element/UiWidget.php	/^    public function setView(Zend_View_Interface $view = null)$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^        $this->view = $view;$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery.php	/^    public $view;$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^        $this->view = $view;$/;"	v
+view	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/JQuery/Container.php	/^    public $view = null;$/;"	v
+zl	../../NetBeansProjects/library/ZendX/JQuery/View/Helper/DatePicker.php	/^                foreach($dateFormat AS $zl => $jql) {$/;"	v
