@@ -37,15 +37,15 @@ endif
 autocmd FileType text setlocal textwidth=72       " les fichiers de type .txt sont limites à 72 caractères par ligne
 autocmd FileType php setlocal textwidth=120       " les fichiers de type .php sont limites à 120 caractères par ligne
 set fileformats=unix,mac,dos                      " gestion des retours chariot en fonction du type de fichier
-set viewdir=/home/azema/.vim/saveview/            " répertoire pour sauvegarder les vues, utiles pour les replis manuels
+set viewdir=~/.vim/saveview/                      " répertoire pour sauvegarder les vues, utiles pour les replis manuels
 set foldcolumn=2                                  " repère visuel pour les folds
-let Tlist_Ctags_Cmd = '/usr/bin/ctags'		  	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
+let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'  	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
 set incsearch                                     " recherche incrémentale
 set hlsearch                                      " surligne les résultats de la recherche
 "set ignorecase                                    " ne pas prendre en compte la casse pour les recherches
 set nolist					  					  " on n'affiche pas les caractères non imprimables
 set listchars=eol:¶,tab:..,trail:~		  		  " paramétrage des caractères non imprimables au cas où l'on souhaiterait les afficher
-set tags+=~/.vim/mytags/motoka,~/.vim/mytags/zend
+set tags+=~/.vim/mytags/*
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
@@ -108,7 +108,7 @@ set statusline=%t%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [FENC=%{&fileencoding}]\ 
 "Mapping pour l'activation de l'explorateur
 "système
 """"""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <silent> <F9> :NERDTree /home/azema/<CR>
+nnoremap <silent> <F9> :NERDTree ~/<CR>
 
 
 
@@ -173,39 +173,39 @@ autocmd BufEnter *.txt set spell                     " correction orthographique
 autocmd BufEnter *.txt set spelllang=fr              " correction orthographique dans les fichiers textes
 
 
+if has('balloon_eval')
+    """"""""""""""""""""""""""""""""""""""""""""""""""
+    "Infos-Bulles
+    """"""""""""""""""""""""""""""""""""""""""""""""""
+    function! FoldSpellBalloon()
+        let foldStart = foldclosed(v:beval_lnum)
+        let foldEnd = foldclosedend(v:beval_lnum)
+        let lines = []
+        "Detect if we are in a fold
+        if foldStart < 0
+            "Detect if we are on a misspelled word
+            let lines = spellsuggest(spellbadword(v:beval_text)[0], 5, 0)
+        else
+            "We are in a fold
+            let numLines = foldEnd - foldStart + 1
+            "If we have too many lines in fold, show only the first 14
+            "and the last 14 lines
+            if(numLines > 31)
+                let lines = getline(foldStart, foldStart + 14)
+                let lines += ['-- Snipped ' . (numLines - 30) . ' lines --']
+                let lines += getline(foldEnd - 14, foldEnd)
+            else
+                "Less than 30 lines, lets show all of them
+                let lines = getline(foldStart, foldEnd)
+            endif
+        endif
+        "Return result
+        return join(lines, has("balloon_multiline") ? "\n" : " ")
+    endfunction
 
-""""""""""""""""""""""""""""""""""""""""""""""""""
-"Infos-Bulles
-""""""""""""""""""""""""""""""""""""""""""""""""""
-function! FoldSpellBalloon()
-    let foldStart = foldclosed(v:beval_lnum)
-    let foldEnd = foldclosedend(v:beval_lnum)
-    let lines = []
-    "Detect if we are in a fold
-    if foldStart < 0
-	"Detect if we are on a misspelled word
-	let lines = spellsuggest(spellbadword(v:beval_text)[0], 5, 0)
-    else
-	"We are in a fold
-	let numLines = foldEnd - foldStart + 1
-	"If we have too many lines in fold, show only the first 14
-	"and the last 14 lines
-	if(numLines > 31)
-	    let lines = getline(foldStart, foldStart + 14)
-	    let lines += ['-- Snipped ' . (numLines - 30) . ' lines --']
-	    let lines += getline(foldEnd - 14, foldEnd)
-	else
-	    "Less than 30 lines, lets show all of them
-	    let lines = getline(foldStart, foldEnd)
-	endif
-    endif
-    "Return result
-    return join(lines, has("balloon_multiline") ? "\n" : " ")
-endfunction
-
-set balloonexpr=FoldSpellBalloon()
-set ballooneval
-
+    set balloonexpr=FoldSpellBalloon()
+    set ballooneval
+endif
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
