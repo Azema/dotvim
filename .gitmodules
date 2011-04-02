@@ -10,3 +10,6 @@
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/ZF-snippets"]
+	path = bundle/ZF-snippets
+	url = git://github.com/motanelu/ZF-snippets.git
