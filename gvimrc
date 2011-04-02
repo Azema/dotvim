@@ -42,7 +42,7 @@ set viewdir=~/.vim/saveview/            " répertoire pour sauvegarder les vues,
 set cursorline                                    " afficher la ligne courante
 hi CursorLine guibg=#4d4d4d                       " couleur de fond pour la ligne courante
 set foldcolumn=2                                  " repère visuel pour les folds
-let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'      	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
+let Tlist_Ctags_Cmd = '/usr/bin/ctags'      	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
 set guioptions-=T                                 " supprime la barre d'outils
 set incsearch                                     " recherche incrémentale
 set hlsearch                                      " surligne les résultats de la recherche
@@ -101,6 +101,16 @@ au filetype python      set omnifunc=pythoncomplete#Complete
 au filetype xml         set omnifunc=xmlcomplete#CompleteTags
 
 
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Personnalisation PHP
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Options spécifique à la syntaxe html :
+" Coloriser le html dans les chaines php
+let php_htmlInStrings = 1
+" Coloriser le SQL dans les chaines php
+let php_sql_query = 1
+let php_no_shorttags = 1
+let php_folding = 0
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
 "Personnalisation de la barre de statut

@@ -39,7 +39,7 @@ autocmd FileType php setlocal textwidth=120       " les fichiers de type .php so
 set fileformats=unix,mac,dos                      " gestion des retours chariot en fonction du type de fichier
 set viewdir=~/.vim/saveview/                      " répertoire pour sauvegarder les vues, utiles pour les replis manuels
 set foldcolumn=2                                  " repère visuel pour les folds
-let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'  	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
+let Tlist_Ctags_Cmd = '/usr/bin/ctags'  	  " implémentation de ctags, nécessaire pour le plugin 'taglist'
 set incsearch                                     " recherche incrémentale
 set hlsearch                                      " surligne les résultats de la recherche
 "set ignorecase                                    " ne pas prendre en compte la casse pour les recherches
@@ -81,6 +81,39 @@ au BufReadPost * if line("'\"") > 0|if line("'\"") <= line("$")|exe("norm '\"")|
 autocmd BufEnter *.txt set filetype=text             " chargement du type de fichier pour le format txt
 
 
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Check syntax when saving a buffer
+""""""""""""""""""""""""""""""""""""""""""""""""""
+augroup CheckSyntaxOnSave
+    autocmd BufWritePost *.php !php -d display_errors=on -l <afile> 
+    autocmd BufWritePost *.inc !php -d display_errors=on -l <afile>
+    autocmd BufWritePost *.phtml !php -d display_errors=on -l <afile>
+    autocmd BufWritePost *.thtml !php -d display_errors=on -l <afile>
+    autocmd BufWritePost *.ctp !php -d display_errors=on -l <afile>
+    autocmd BufWritePost *httpd*.conf !/etc/rc.d/init.d/httpd configtest
+    autocmd BufWritePost *.bash !bash -n <afile>
+    autocmd BufWritePost *.sh !bash -n <afile>
+    autocmd BufWritePost *.pl !perl -c <afile>
+    autocmd BufWritePost *.perl !perl -c <afile>
+    autocmd BufWritePost *.xml !xmllint --noout <afile>
+    autocmd BufWritePost *.xsl !xmllint --noout <afile>
+    autocmd BufWritePost *.js !~/jslint/jsl -conf ~/jslint/jsl.default.conf -nologo -nosummary -process <afile>
+    autocmd BufWritePost *.rb !ruby -c <afile>
+    autocmd BufWritePost *.py !python -c "import py_compile; py_compile.compile(r'<afile>')"
+augroup END
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Detect file types
+""""""""""""""""""""""""""""""""""""""""""""""""""
+augroup FileTypeDetect
+    autocmd BufRead,BufNewFile *httpd*.conf setfiletype apache "Apache config files
+    autocmd BufRead,BufNewFile .htaccess    setfiletype apache "htaccess files
+    autocmd BufRead,BufNewFile *inc         setfiletype php "PHP include files
+    autocmd BufRead,BufNewFile *phtml       setfiletype php "Zend framework templates
+    autocmd BufRead,BufNewFile *thtml       setfiletype php "CakePHP templates
+    autocmd BufRead,BufNewFile *ctp         setfiletype php "CakePHP templates
+augroup END
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
 "Omni-completion par CTRL-X_CTRL-O
@@ -95,6 +128,69 @@ au filetype sql         set omnifunc=sqlcomplete#Complete
 au filetype python      set omnifunc=pythoncomplete#Complete
 au filetype xml         set omnifunc=xmlcomplete#CompleteTags
 
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" NeoComplCache configuration
+""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:neocomplcache_enable_at_startup            = 1
+let g:neocomplcache_enable_smart_case            = 1
+let g:neocomplcache_enable_camel_case_completion = 1
+let g:neocomplcache_enable_underbar_completion   = 1
+let g:neocomplcache_min_syntax_length            = 2
+let g:neocomplcache_lock_buffer_name_pattern     = '\*ku\*'
+
+let g:neocomplcache_dictionary_filetype_lists = { 
+    \ 'default'  : '',
+    \ 'vimshell' : $HOME . '/.vimshell_hist',
+    \ 'scheme'   : $HOME . '/.gosh_completions'
+    \ } 
+
+if !exists('g:neocomplcache_keyword_patterns') 
+    let g:neocomplcache_keyword_patterns = {} 
+endif 
+let g:neocomplcache_keyword_patterns['default'] = '\h\w*' 
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" PHP specials (next/previous variable)
+""""""""""""""""""""""""""""""""""""""""""""""""""
+noremap L f$ 
+noremap H F$
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Force the ZF filetype for PHP files
+""""""""""""""""""""""""""""""""""""""""""""""""""
+autocmd FileType php set ft=php.zf
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" php documentor
+""""""""""""""""""""""""""""""""""""""""""""""""""
+source ~/.vim/php-doc.vim
+inoremap <C-P> <ESC>:call PhpDocSingle()<CR>i
+nnoremap <C-P> :call PhpDocSingle()<CR>
+vnoremap <C-P> :call PhpDocRange()<CR>
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" CTRL + Space to pop up omnicomplete
+""""""""""""""""""""""""""""""""""""""""""""""""""
+inoremap <C-Space> <C-x><C-o>
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Personnalisation PHP
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Options spécifique à la syntaxe html :
+" Coloriser le html dans les chaines php
+let php_htmlInStrings = 1
+" Coloriser le SQL dans les chaines php
+let php_sql_query = 1
+let php_no_shorttags = 1
+let php_folding = 0
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" Ajout de l'analyser de code ZendCodeAnalyzer
+" seulement pour php < 5.3
+""""""""""""""""""""""""""""""""""""""""""""""""""
+"autocmd FileType php setlocal makeprg=zca\ %<.php
+"autocmd FileType php setlocal errorformat=%f(line\ %l):\ %m
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""

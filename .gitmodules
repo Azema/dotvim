@@ -1,9 +1,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = git://github.com/msanders/snipmate.vim.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
@@ -13,3 +10,6 @@
 [submodule "bundle/ZF-snippets"]
 	path = bundle/ZF-snippets
 	url = git://github.com/motanelu/ZF-snippets.git
+[submodule "NERD_Tree-and-ack"]
+	path = bundle/NERD_Tree-and-ack
+	url = https://github.com/vim-scripts/NERD_Tree-and-ack.git

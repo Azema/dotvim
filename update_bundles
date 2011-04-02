@@ -1,0 +1,71 @@
+#!/usr/bin/env ruby
+
+##
+# Extremely cool script written by Tammer Saleh that keeps files in sync
+# when using pathogen
+#
+# Found at:
+# http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen
+##
+
+git_bundles = [ 
+    "git://github.com/msanders/snipmate.vim.git",
+    "git://github.com/scrooloose/nerdtree.git",
+    "git://github.com/tpope/vim-repeat.git",
+    "git://github.com/tpope/vim-surround.git",
+    "git://github.com/tsaleh/vim-align.git",
+    "git://github.com/shawncplus/phpcomplete.vim.git",
+    "git://github.com/Shougo/neocomplcache.git",
+    "git://github.com/motanelu/ZF-snippets.git",
+    "git://github.com/chrisbra/histwin.vim.git",
+    "git://github.com/tpope/vim-ragtag.vim",
+]
+
+vim_org_scripts = [
+    ["IndexedSearch",   "7062",  "plugin"],
+    ["jquery",          "12107", "syntax"],
+    ["NERDTree_ACK",    "14469", "plugin"],
+    ["Matchit",         "8196",  "zip"   ],
+    ["SearchComplete",  "1388",  "plugin"],
+    ["Taglist",         "7701",  "zip"   ],
+    ["FindFile",        "7528",  "plugin"],
+    ["PHPDoc",          "4666",  "plugin"],
+]
+
+require 'fileutils'
+require 'open-uri'
+
+bundles_dir = File.join(File.dirname(__FILE__), "bundle")
+
+FileUtils.cd(bundles_dir)
+
+puts "Trashing everything (lookout!)"
+Dir["*"].each {|d| FileUtils.rm_rf d }
+
+git_bundles.each do |url|
+    dir = url.split('/').last.sub(/\.git$/, '')
+    puts "  Unpacking #{url} into #{dir}"
+    `git clone #{url} #{dir}`
+    FileUtils.rm_rf(File.join(dir, ".git"))
+end
+
+vim_org_scripts.each do |name, script_id, script_type|
+    puts "  Downloading #{name}"
+    if script_type == 'zip' 
+        local_file = File.join(name, "#{name}.zip")
+        folder = File.dirname(local_file)
+        FileUtils.mkdir_p(folder)
+        File.open(local_file, "w") do |file|
+            file << open("http://www.vim.org/scripts/download_script.php?src_id=#{script_id}").read
+        end
+        `unzip #{local_file} -d #{folder}`
+        `rm -f #{local_file}`
+    else
+        local_file = File.join(name, script_type, "#{name}.vim")
+        FileUtils.mkdir_p(File.dirname(local_file))
+        File.open(local_file, "w") do |file|
+            file << open("http://www.vim.org/scripts/download_script.php?src_id=#{script_id}").read
+        end
+    end
+end
+
